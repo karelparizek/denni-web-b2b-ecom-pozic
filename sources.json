@@ -1,0 +1,322 @@
+{
+  "timezone": "Europe/Prague",
+  "currency": "CZK",
+  "roles": [
+    {
+      "title": "Senior B2B Marketing Manager VELOQ",
+      "company": "Rohlik Group (Veloq)",
+      "role_type": "Full-time",
+      "location": "Prague, Czech Republic (hybrid)",
+      "estimated_compensation_czk_per_month": "140000-210000",
+      "base_match_rate": 88,
+      "url": "https://career.rohlik.group/group/jobs/739be654-8638-4152-b71d-c689966e9933",
+      "source": "Employer career",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Rohlik%20B2B%20Marketing%20Manager%20Prague"
+    },
+    {
+      "title": "B2B Marketing Lead",
+      "company": "Proton",
+      "role_type": "Full-time",
+      "location": "Prague / Barcelona / Geneva / Vilnius / Skopje / Zurich",
+      "estimated_compensation_czk_per_month": "150000-230000",
+      "base_match_rate": 87,
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4183145101",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Proton%20B2B%20Marketing%20Lead"
+    },
+    {
+      "title": "Marketing Lead (Head of Marketing)",
+      "company": "Wolt",
+      "role_type": "Full-time",
+      "location": "Prague, Czechia",
+      "estimated_compensation_czk_per_month": "130000-210000",
+      "base_match_rate": 86,
+      "url": "https://careers.wolt.com/en/jobs/7013916",
+      "source": "Employer career",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Wolt%20Marketing%20Lead%20Prague"
+    },
+    {
+      "title": "Oddin.gg Global Marketing Manager",
+      "company": "Oddin.gg",
+      "role_type": "Freelance contract",
+      "location": "Prague (remote/hybrid)",
+      "estimated_compensation_czk_per_month": "120000-190000",
+      "base_match_rate": 85,
+      "url": "https://jobs.lever.co/oddin/3ec9c3c2-9e81-402b-a131-cf0c5f924fb4",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Oddin%20Global%20Marketing%20Manager"
+    },
+    {
+      "title": "Head of Growth",
+      "company": "Proton",
+      "role_type": "Full-time",
+      "location": "Prague / Barcelona / Taipei / Skopje",
+      "estimated_compensation_czk_per_month": "180000-280000",
+      "base_match_rate": 84,
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4555348101",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Proton%20Head%20of%20Growth"
+    },
+    {
+      "title": "B2B Product Marketing Manager",
+      "company": "Heureka Group",
+      "role_type": "Full-time",
+      "location": "Prague, Czechia",
+      "estimated_compensation_czk_per_month": "100000-155000",
+      "base_match_rate": 82,
+      "url": "https://join.heureka.group/cs/jobs/b2b-product-marketing-manager",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Heureka%20B2B%20Product%20Marketing%20Manager"
+    },
+    {
+      "title": "Strategy & Operations Manager, Marketing",
+      "company": "Wolt",
+      "role_type": "Full-time",
+      "location": "Prague / Berlin / London / Helsinki / Athens",
+      "estimated_compensation_czk_per_month": "150000-230000",
+      "base_match_rate": 79,
+      "url": "https://careers.wolt.com/ja/jobs/7364374",
+      "source": "Employer career",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Wolt%20Strategy%20Operations%20Marketing"
+    },
+    {
+      "title": "Senior Marketing Manager - New Products",
+      "company": "Proton",
+      "role_type": "Full-time",
+      "location": "Barcelona / London / Paris",
+      "estimated_compensation_czk_per_month": "140000-220000",
+      "base_match_rate": 76,
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4601132101",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Proton%20Senior%20Marketing%20Manager"
+    },
+    {
+      "title": "Senior B2B Product Marketing Manager",
+      "company": "Wolt",
+      "role_type": "Full-time",
+      "location": "Berlin, Germany",
+      "estimated_compensation_czk_per_month": "135000-210000",
+      "base_match_rate": 75,
+      "url": "https://careers.wolt.com/en/jobs/1/7430976",
+      "source": "Employer career",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Wolt%20Senior%20B2B%20Product%20Marketing%20Manager"
+    },
+    {
+      "title": "B2B Marketing Manager (Germany)",
+      "company": "Ajax Systems",
+      "role_type": "Full-time, Remote",
+      "location": "Frankfurt / Dusseldorf / Cologne",
+      "estimated_compensation_czk_per_month": "115000-180000",
+      "base_match_rate": 73,
+      "url": "https://jobs.lever.co/ajax/d28769c3-5b1d-471f-aa5c-be49ca725109",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Ajax%20B2B%20Marketing%20Manager"
+    },
+    {
+      "title": "B2B Marketing Manager (Remote, UK based)",
+      "company": "Ajax Systems",
+      "role_type": "Full-time, Remote",
+      "location": "London / Manchester",
+      "estimated_compensation_czk_per_month": "120000-185000",
+      "base_match_rate": 72,
+      "url": "https://jobs.lever.co/ajax/197a3e60-5ff1-45d5-8dfc-f2e80c9f7df8",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Ajax%20B2B%20Marketing%20Manager%20UK"
+    },
+    {
+      "title": "Marketing manager (B2B channel)",
+      "company": "Ajax Systems",
+      "role_type": "Full-time",
+      "location": "Kyiv, Ukraine",
+      "estimated_compensation_czk_per_month": "85000-135000",
+      "base_match_rate": 69,
+      "url": "https://jobs.lever.co/ajax/5092c4c0-1499-44af-bf17-e70510480be6",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Ajax%20B2B%20channel%20Marketing"
+    },
+    {
+      "title": "Marketing Director, Fintech",
+      "company": "Xsolla",
+      "role_type": "Hybrid",
+      "location": "Los Angeles, United States",
+      "estimated_compensation_czk_per_month": "300000-470000",
+      "base_match_rate": 67,
+      "url": "https://jobs.lever.co/xsolla/ec7a8099-973d-4200-9df4-7e26839de6a7",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Xsolla%20Marketing%20Director%20Fintech"
+    },
+    {
+      "title": "Director of Marketing - Xsolla Partner Network & Lightstream",
+      "company": "Xsolla",
+      "role_type": "Full-time, Remote",
+      "location": "US / Canada",
+      "estimated_compensation_czk_per_month": "280000-450000",
+      "base_match_rate": 66,
+      "url": "https://jobs.lever.co/xsolla/e0b9af7d-9f1f-4354-a8da-0f7202347122",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Xsolla%20Director%20of%20Marketing"
+    },
+    {
+      "title": "Chief of Staff (Marketing)",
+      "company": "Xsolla",
+      "role_type": "Full-time, On-site",
+      "location": "Los Angeles, United States",
+      "estimated_compensation_czk_per_month": "330000-510000",
+      "base_match_rate": 64,
+      "url": "https://jobs.lever.co/xsolla/2cdbed12-9c92-4018-b5b1-99c43c7cf617",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Xsolla%20Chief%20of%20Staff%20Marketing"
+    },
+    {
+      "title": "Global Experiential Marketing Director - APAC / Japan based",
+      "company": "Xsolla",
+      "role_type": "Full-time, Hybrid",
+      "location": "Tokyo, Japan",
+      "estimated_compensation_czk_per_month": "210000-330000",
+      "base_match_rate": 63,
+      "url": "https://jobs.lever.co/xsolla/32fe2d42-d742-48af-8540-9aaa5ad84e2d",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Xsolla%20Experiential%20Marketing%20Director"
+    },
+    {
+      "title": "Regional Marketing Manager, Americas",
+      "company": "Xsolla",
+      "role_type": "Full-time, Hybrid",
+      "location": "Los Angeles, United States",
+      "estimated_compensation_czk_per_month": "220000-350000",
+      "base_match_rate": 62,
+      "url": "https://jobs.lever.co/xsolla/33e25153-8099-4ab4-9ebb-10f11d9b5a69",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Xsolla%20Regional%20Marketing%20Manager"
+    },
+    {
+      "title": "Integrated Marketing Manager (B2B)",
+      "company": "Xsolla",
+      "role_type": "Full-time, Remote",
+      "location": "Los Angeles, United States",
+      "estimated_compensation_czk_per_month": "145000-225000",
+      "base_match_rate": 61,
+      "url": "https://jobs.lever.co/xsolla/b7e09558-fa45-4fa7-a53d-002adfa7f4d8",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Xsolla%20Integrated%20Marketing%20Manager%20B2B"
+    },
+    {
+      "title": "CRO Specialist",
+      "company": "Proton",
+      "role_type": "Full-time",
+      "location": "Barcelona, Spain",
+      "estimated_compensation_czk_per_month": "105000-165000",
+      "base_match_rate": 60,
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4781499101",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Proton%20CRO%20Specialist"
+    },
+    {
+      "title": "Marketing Data Analyst",
+      "company": "Proton",
+      "role_type": "Full-time",
+      "location": "Barcelona / Geneva",
+      "estimated_compensation_czk_per_month": "110000-170000",
+      "base_match_rate": 58,
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4699480101",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Proton%20Marketing%20Data%20Analyst"
+    },
+    {
+      "title": "B2B Marketing Manager",
+      "company": "Heureka Group",
+      "role_type": "Full-time",
+      "location": "Prague, Czechia (hybrid)",
+      "estimated_compensation_czk_per_month": "105000-165000",
+      "base_match_rate": 83,
+      "url": "https://www.nelisa.com/heurekagroup/jobs/b2b-marketing-manager-heureka-group",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Heureka%20B2B%20Marketing%20Manager%20Prague"
+    },
+    {
+      "title": "Head of Digital Marketing",
+      "company": "Heureka Group",
+      "role_type": "Full-time",
+      "location": "Prague, Czechia (hybrid)",
+      "estimated_compensation_czk_per_month": "150000-230000",
+      "base_match_rate": 86,
+      "url": "https://onas.heureka.cz/head-of-digital-marketing/",
+      "source": "Employer career",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Heureka%20Head%20of%20Digital%20Marketing"
+    },
+    {
+      "title": "Group Lead of SEM",
+      "company": "Heureka Group",
+      "role_type": "Full-time",
+      "location": "Prague, Czechia (hybrid)",
+      "estimated_compensation_czk_per_month": "115000-175000",
+      "base_match_rate": 74,
+      "url": "https://onas.heureka.cz/group-lead-of-sem/",
+      "source": "Employer career",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Heureka%20Group%20Lead%20SEM"
+    },
+    {
+      "title": "Marketing Manager",
+      "company": "DecisionRules",
+      "role_type": "Full-time",
+      "location": "Prague, Czechia (hybrid)",
+      "estimated_compensation_czk_per_month": "90000-140000",
+      "base_match_rate": 72,
+      "url": "https://decisionrules.io/en/careers/marketing-manager/",
+      "source": "Employer career",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=DecisionRules%20Marketing%20Manager%20Prague"
+    },
+    {
+      "title": "Demand Generation Specialist",
+      "company": "ESET",
+      "role_type": "Full-time",
+      "location": "Prague, Czechia (hybrid)",
+      "estimated_compensation_czk_per_month": "80000-125000",
+      "base_match_rate": 67,
+      "url": "https://www.eset.com/cz/o-nas/kariera/volna-mista/demand-generation-specialist/",
+      "source": "Employer career",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=ESET%20Demand%20Generation%20Specialist%20Prague"
+    },
+    {
+      "title": "Head of Marketing / CMO",
+      "company": "Fitify",
+      "role_type": "Full-time",
+      "location": "Prague, Czechia (hybrid)",
+      "estimated_compensation_czk_per_month": "130000-210000",
+      "base_match_rate": 78,
+      "url": "https://jobs.lever.co/FitifyWorkouts/b8d86da9-e6ed-405e-bbb4-3fe024d97f7e",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Fitify%20Head%20of%20Marketing%20Prague"
+    },
+    {
+      "title": "Head of PR & Communications",
+      "company": "Heureka Group",
+      "role_type": "Full-time",
+      "location": "Prague, Czechia (hybrid)",
+      "estimated_compensation_czk_per_month": "115000-180000",
+      "base_match_rate": 60,
+      "url": "https://www.nelisa.com/heurekagroup/jobs/head-of-pr-communications-heureka-group",
+      "source": "Employer ATS",
+      "linkedin_url": "https://www.linkedin.com/jobs/search/?keywords=Heureka%20Head%20PR%20Communications"
+    },
+    {
+      "title": "Director of B2B Marketing",
+      "company": "Daytrip",
+      "role_type": "Full-time",
+      "location": "Prague, Czechia (hybrid)",
+      "estimated_compensation_czk_per_month": "150000-240000",
+      "url": "https://join.daytrip.com/director-b2b-marketing-3",
+      "source": "Employer career",
+      "hr_sources": [
+        {
+          "label": "Employer site",
+          "url": "https://join.daytrip.com/director-b2b-marketing-3"
+        },
+        {
+          "label": "LinkedIn Search",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Daytrip%20Director%20B2B%20Marketing"
+        }
+      ]
+    }
+  ]
+}
