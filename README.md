@@ -33,3 +33,10 @@ HR discovery source can be LinkedIn or any other job board/ATS (`hr_sources`). F
 - seniority terms (`Head`, `Director`, `Regional Lead`, `Senior Lead`, `VP`)
 - B2B/e-commerce relevance (`B2B`, `e-commerce`, `growth`, `product marketing`)
 - Prague/hybrid location is prioritized in final ranking.
+
+## Current Ranking Rule
+
+- Output is strict `Prague/Praha/hybrid` only.
+- Dashboard always shows top 20 rows.
+- Verified links are ranked first; if verified Prague/hybrid roles are <20, remaining slots are filled from Prague/hybrid discovery candidates and marked in `Ověření odkazu`.
+- Default discovery links are generated for `Jobs.cz`, `Prace.cz`, `StartupJobs`, and `LinkedIn` when missing.

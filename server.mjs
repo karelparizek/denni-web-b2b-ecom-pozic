@@ -58,7 +58,18 @@ const server = http.createServer(async (req, res) => {
   if (req.method === "POST" && req.url === "/api/manual-update") {
     try {
       const result = await runUpdate();
-      return send(res, 200, JSON.stringify({ ok: true, detail: result.stdout.trim() || "updated" }));
+      let parsed = null;
+      try {
+        parsed = JSON.parse(result.stdout);
+      } catch {
+        parsed = null;
+      }
+      return send(res, 200, JSON.stringify({
+        ok: true,
+        detail: result.stdout.trim() || "updated",
+        reused_previous_data: Boolean(parsed && parsed.reused_previous_data),
+        generated_at: parsed && parsed.generated_at ? parsed.generated_at : null
+      }));
     } catch (err) {
       return send(res, 500, JSON.stringify({ ok: false, error: err.message }));
     }

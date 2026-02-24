@@ -148,7 +148,7 @@
         </thead>
         <tbody id="rows"></tbody>
       </table>
-      <div class="foot">Zobrazují se jen pozice s live odkazem ověřeným při generování dat. Seřazeno podle match rate (desc).</div>
+      <div class="foot">Zobrazuje se strict Praha/hybrid top 20. Ověřené odkazy jsou řazeny výš, neověřené jsou fallback pro doplnění na 20.</div>
     </section>
   </div>
 
@@ -215,16 +215,22 @@
     async function loadData(force) {
       try {
         setStatus(force ? 'Provadim manualni update (full re-check)...' : 'Nacitam...');
+        let fullRecheckDone = !force;
+        let reusedPreviousData = false;
         if (force) {
           let apiReachable = true;
           try {
             const res = await fetch('/api/manual-update', { method: 'POST' });
             if (!res.ok) throw new Error(`Manual update API vratilo HTTP ${res.status}`);
+            const body = await res.json();
+            reusedPreviousData = !!body.reused_previous_data;
+            fullRecheckDone = true;
           } catch {
             apiReachable = false;
           }
           if (!apiReachable) {
             setStatus('Backend update neni dostupny, provedu jen reload dat.');
+            fullRecheckDone = false;
           }
           window.DASHBOARD_DATA = undefined;
           await loadScript(`data.js?t=${Date.now()}`);
@@ -236,13 +242,21 @@
         if (!data || !Array.isArray(data.roles)) throw new Error('Data nejsou dostupna');
 
         const roles = [...data.roles]
-          .filter((r) => r.link_verified)
-          .sort((a, b) => b.match_rate - a.match_rate)
+          .sort((a, b) => {
+            if (a.link_verified !== b.link_verified) return Number(b.link_verified) - Number(a.link_verified);
+            return b.match_rate - a.match_rate;
+          })
           .slice(0, 20);
 
         renderRows(roles);
         metaEl.textContent = `Aktualizovano: ${data.generated_at} | Pocet pozic: ${roles.length} | Timezone: ${data.timezone}`;
-        setStatus(`Hotovo (${new Date().toLocaleTimeString('cs-CZ')})`);
+        let modeLabel = 'Jen reload dat';
+        if (fullRecheckDone && reusedPreviousData) {
+          modeLabel = 'Full re-check fallback (stara data)';
+        } else if (fullRecheckDone) {
+          modeLabel = 'Full re-check OK';
+        }
+        setStatus(`${modeLabel} (${new Date().toLocaleTimeString('cs-CZ')})`);
       } catch (err) {
         const hint = location.protocol === 'file:'
           ? ' Spust dashboard pres lokalni server: node server.mjs'

@@ -23,6 +23,16 @@ function computeMatchRate(base, location) {
   return Math.min(99, Math.max(1, base + boost));
 }
 
+function buildDefaultHrSources(role) {
+  const query = encodeURIComponent(`${role.title || ""} ${role.company || ""} Praha hybrid`.trim());
+  return [
+    { label: "LinkedIn", url: `https://www.linkedin.com/jobs/search/?keywords=${query}` },
+    { label: "Jobs.cz", url: `https://www.jobs.cz/prace/?q=${query}` },
+    { label: "Prace.cz", url: `https://www.prace.cz/hledani/?search%5Bphrase%5D=${query}` },
+    { label: "StartupJobs", url: `https://www.startupjobs.com/jobs?search=${query}` }
+  ];
+}
+
 function inferBaseMatchRate(role) {
   if (typeof role.base_match_rate === "number") return role.base_match_rate;
 
@@ -115,17 +125,35 @@ async function main() {
   }
 
   const selected = verified
+    .filter((r) => hasPragueHybrid(r.location))
     .sort((a, b) => {
       const aPrague = hasPragueHybrid(a.location) ? 1 : 0;
       const bPrague = hasPragueHybrid(b.location) ? 1 : 0;
       if (aPrague !== bPrague) return bPrague - aPrague;
       return b.match_rate - a.match_rate;
     })
+    .slice(0, 20);
+
+  if (selected.length < 20) {
+    const selectedUrls = new Set(selected.map((r) => r.url));
+    const fill = checked
+      .filter((r) => hasPragueHybrid(r.location))
+      .filter((r) => !selectedUrls.has(r.url))
+      .sort((a, b) => b.match_rate - a.match_rate)
+      .slice(0, 20 - selected.length);
+    selected.push(...fill);
+  }
+
+  const top20 = selected
+    .sort((a, b) => {
+      if (a.link_verified !== b.link_verified) return Number(b.link_verified) - Number(a.link_verified);
+      return b.match_rate - a.match_rate;
+    })
     .slice(0, 20)
     .map((r) => {
       const hrSources = Array.isArray(r.hr_sources) && r.hr_sources.length > 0
         ? r.hr_sources
-        : (r.linkedin_url ? [{ label: "LinkedIn", url: r.linkedin_url }] : []);
+        : (r.linkedin_url ? [{ label: "LinkedIn", url: r.linkedin_url }] : buildDefaultHrSources(r));
 
       return {
       title: r.title,
@@ -147,17 +175,17 @@ async function main() {
     generated_at: new Date().toISOString(),
     timezone: sourceData.timezone,
     currency: sourceData.currency,
-    total_roles: selected.length,
+    total_roles: top20.length,
     validation_rule: skipValidation
-      ? "Validation skipped by SKIP_LINK_VALIDATION=1. Prague/hybrid prioritized in ranking."
-      : "Full list revalidated on manual/automated run. Prague/hybrid prioritized in ranking.",
-    roles: selected
+      ? "Validation skipped by SKIP_LINK_VALIDATION=1. Strict Prague/hybrid list, top 20."
+      : "Full list revalidated on manual/automated run. Strict Prague/hybrid list, top 20 (verified prioritized).",
+    roles: top20
   };
 
   await fs.writeFile(JSON_OUT, `${JSON.stringify(out, null, 2)}\n`, "utf8");
   await fs.writeFile(JS_OUT, `window.DASHBOARD_DATA = ${JSON.stringify(out, null, 2)};\n`, "utf8");
 
-  console.log(JSON.stringify({ ok: true, total_roles: selected.length, generated_at: out.generated_at }, null, 2));
+  console.log(JSON.stringify({ ok: true, total_roles: top20.length, generated_at: out.generated_at }, null, 2));
 }
 
 main().catch((err) => {
