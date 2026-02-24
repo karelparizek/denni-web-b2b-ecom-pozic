@@ -54,9 +54,40 @@ function inferBaseMatchRate(role) {
 }
 
 async function checkLink(url) {
-  const badSignals = ["not found", "404", "job is closed", "position has been filled", "no longer available"];
+  const badSignals = [
+    "not found",
+    "404",
+    "job is closed",
+    "position has been filled",
+    "no longer available",
+    "nenasli jsme zadne nabidky prace odpovidajici zadani",
+    "nenašli jsme žádné nabídky práce odpovídající zadání",
+    "bohuzel jsme nenasli zadnou nabidku",
+    "bohužel jsme nenašli žádnou nabídku",
+    "no jobs found",
+    "no matching jobs"
+  ];
+
+  function hostOf(input) {
+    return input.hostname.replace(/^www\./, "").toLowerCase();
+  }
+
+  function isSearchOrListingUrl(input) {
+    const host = hostOf(input);
+    const pathname = input.pathname.toLowerCase();
+    const hasSearchParams = ["q", "search", "keywords", "phrase"].some((p) => input.searchParams.has(p));
+
+    if (hasSearchParams) return true;
+    if (host.includes("jobs.cz") && pathname.startsWith("/prace")) return true;
+    if (host.includes("prace.cz") && pathname.startsWith("/hledani")) return true;
+    if (host.includes("startupjobs.com") && pathname === "/jobs") return true;
+    if (host.includes("linkedin.com") && pathname.startsWith("/jobs/search")) return true;
+    return false;
+  }
 
   try {
+    const initialUrl = new URL(url);
+
     const res = await fetch(url, {
       method: "GET",
       redirect: "follow",
@@ -68,12 +99,16 @@ async function checkLink(url) {
 
     const finalUrl = res.url || url;
     const status = res.status;
-    const text = (await res.text()).toLowerCase().slice(0, 12000);
+    const text = (await res.text()).toLowerCase().slice(0, 30000);
 
     const badContent = badSignals.some((s) => text.includes(s));
     const badRedirect = /404|not-found|job-not-found|error/.test(finalUrl.toLowerCase());
+    const finalUrlParsed = new URL(finalUrl);
+    const initialWasSearch = isSearchOrListingUrl(initialUrl);
+    const finalIsSearch = isSearchOrListingUrl(finalUrlParsed);
+    const notDirectAd = finalIsSearch || (initialWasSearch && finalUrlParsed.origin === initialUrl.origin);
 
-    const ok = status >= 200 && status < 300 && !badContent && !badRedirect;
+    const ok = status >= 200 && status < 300 && !badContent && !badRedirect && !notDirectAd;
     return { ok, status, final_url: finalUrl };
   } catch (err) {
     return { ok: false, status: 0, final_url: url, error: err.message };
@@ -134,14 +169,16 @@ async function main() {
     })
     .slice(0, 20);
 
-  if (selected.length < 20) {
-    const selectedUrls = new Set(selected.map((r) => r.url));
-    const fill = checked
-      .filter((r) => hasPragueHybrid(r.location))
-      .filter((r) => !selectedUrls.has(r.url))
-      .sort((a, b) => b.match_rate - a.match_rate)
-      .slice(0, 20 - selected.length);
-    selected.push(...fill);
+  if (selected.length < 20 && previousData && Array.isArray(previousData.roles) && previousData.roles.length >= 20) {
+    await fs.writeFile(JSON_OUT, `${JSON.stringify(previousData, null, 2)}\n`, "utf8");
+    await fs.writeFile(JS_OUT, `window.DASHBOARD_DATA = ${JSON.stringify(previousData, null, 2)};\n`, "utf8");
+    console.log(JSON.stringify({
+      ok: true,
+      reused_previous_data: true,
+      reason: `only ${selected.length} active direct Prague/hybrid postings verified`,
+      total_roles: previousData.roles.length
+    }, null, 2));
+    return;
   }
 
   const top20 = selected
