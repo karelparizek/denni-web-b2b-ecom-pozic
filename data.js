@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-02-23T16:08:08.437Z",
+  "generated_at": "2026-02-24T19:12:23.246Z",
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
@@ -26,7 +26,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Senior B2B Marketing Manager VELOQ",
@@ -45,7 +45,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "B2B Marketing Lead",
@@ -64,7 +64,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Marketing Lead (Head of Marketing)",
@@ -83,7 +83,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Head of Digital Marketing",
@@ -102,7 +102,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Oddin.gg Global Marketing Manager",
@@ -121,7 +121,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Head of Growth",
@@ -140,7 +140,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "B2B Marketing Manager",
@@ -159,7 +159,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "B2B Product Marketing Manager",
@@ -178,7 +178,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Head of B2B Marketing",
@@ -209,7 +209,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Marketing Director CEE",
@@ -240,7 +240,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Senior Regional Marketing Lead CEE",
@@ -271,7 +271,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Head of Growth Marketing",
@@ -302,7 +302,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "B2B Demand Generation Lead",
@@ -333,7 +333,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Senior Performance Marketing Lead",
@@ -364,7 +364,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Marketing Director DACH/CEE",
@@ -395,7 +395,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Head of E-commerce Marketing",
@@ -426,7 +426,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Regional B2B Marketing Manager CEE",
@@ -457,7 +457,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Senior CRM & Lifecycle Lead",
@@ -488,7 +488,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     },
     {
       "title": "Director of Digital Marketing CEE",
@@ -519,7 +519,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-23"
+      "link_checked_at": "2026-02-24"
     }
   ]
 };
