@@ -1,9 +1,14 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-02-24T19:21:43.322Z",
+  "generated_at": "2026-03-12T08:00:48.683Z",
+  "last_checked_at": "2026-03-12T08:00:48.683Z",
+  "last_run_status": "fresh_data",
+  "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
-  "validation_rule": "Full list revalidated on manual/automated run. Strict Prague/hybrid list, top 20 (verified prioritized).",
+  "target_roles": 20,
+  "prague_hybrid_roles": 14,
+  "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
       "title": "Senior B2B Marketing Manager VELOQ",
@@ -11,18 +16,30 @@ window.DASHBOARD_DATA = {
       "role_type": "Full-time",
       "location": "Prague, Czech Republic (hybrid)",
       "estimated_compensation_czk_per_month": "140000-210000",
-      "match_rate": 98,
+      "match_rate": 99,
       "url": "https://career.rohlik.group/group/jobs/739be654-8638-4152-b71d-c689966e9933",
       "source": "Employer career",
       "hr_sources": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Rohlik%20B2B%20Marketing%20Manager%20Prague"
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20B2B%20Marketing%20Manager%20VELOQ%20Rohlik%20Group%20(Veloq)%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Senior%20B2B%20Marketing%20Manager%20VELOQ%20Rohlik%20Group%20(Veloq)%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20B2B%20Marketing%20Manager%20VELOQ%20Rohlik%20Group%20(Veloq)%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Senior%20B2B%20Marketing%20Manager%20VELOQ%20Rohlik%20Group%20(Veloq)%20Prague%20hybrid"
         }
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
       "title": "Oddin.gg Global Marketing Manager",
@@ -30,484 +47,588 @@ window.DASHBOARD_DATA = {
       "role_type": "Freelance contract",
       "location": "Prague (remote/hybrid)",
       "estimated_compensation_czk_per_month": "120000-190000",
-      "match_rate": 95,
+      "match_rate": 99,
       "url": "https://jobs.lever.co/oddin/3ec9c3c2-9e81-402b-a131-cf0c5f924fb4",
       "source": "Employer ATS",
       "hr_sources": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Oddin%20Global%20Marketing%20Manager"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-02-24"
-    },
-    {
-      "title": "B2B Product Marketing Manager",
-      "company": "Heureka Group",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia",
-      "estimated_compensation_czk_per_month": "100000-155000",
-      "match_rate": 92,
-      "url": "https://join.heureka.group/cs/jobs/b2b-product-marketing-manager",
-      "source": "Employer ATS",
-      "hr_sources": [
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Oddin.gg%20Global%20Marketing%20Manager%20Oddin.gg%20Prague%20hybrid"
+        },
         {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Heureka%20B2B%20Product%20Marketing%20Manager"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-02-24"
-    },
-    {
-      "title": "Demand Generation Specialist",
-      "company": "ESET",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "80000-125000",
-      "match_rate": 77,
-      "url": "https://www.eset.com/cz/o-nas/kariera/volna-mista/demand-generation-specialist/",
-      "source": "Employer career",
-      "hr_sources": [
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Oddin.gg%20Global%20Marketing%20Manager%20Oddin.gg%20Prague%20hybrid"
+        },
         {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=ESET%20Demand%20Generation%20Specialist%20Prague"
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Oddin.gg%20Global%20Marketing%20Manager%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Oddin.gg%20Global%20Marketing%20Manager%20Oddin.gg%20Prague%20hybrid"
         }
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
-      "title": "Director of B2B Marketing",
-      "company": "Daytrip",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "150000-240000",
+      "title": "Head of Sales for a New Project",
+      "company": "Oddin.gg",
+      "role_type": "Freelance Contract",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "140000-220000",
       "match_rate": 99,
-      "url": "https://join.daytrip.com/director-b2b-marketing-3",
-      "source": "Employer career",
-      "hr_sources": [
-        {
-          "label": "Employer site",
-          "url": "https://join.daytrip.com/director-b2b-marketing-3"
-        },
-        {
-          "label": "LinkedIn Search",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Daytrip%20Director%20B2B%20Marketing"
-        }
-      ],
-      "link_verified": false,
-      "link_status": 200,
-      "link_checked_at": "2026-02-24"
-    },
-    {
-      "title": "B2B Marketing Lead",
-      "company": "Proton",
-      "role_type": "Full-time",
-      "location": "Prague / Barcelona / Geneva / Vilnius / Skopje / Zurich",
-      "estimated_compensation_czk_per_month": "150000-230000",
-      "match_rate": 97,
-      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4183145101",
-      "source": "Employer ATS",
+      "url": "https://jobs.lever.co/oddin/c6f27320-463a-4d17-89fc-d722d5d0bef1",
+      "source": "Lever discovery",
       "hr_sources": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Proton%20B2B%20Marketing%20Lead"
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Sales%20for%20a%20New%20Project%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Head%20of%20Sales%20for%20a%20New%20Project%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Head%20of%20Sales%20for%20a%20New%20Project%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Head%20of%20Sales%20for%20a%20New%20Project%20Oddin.gg%20Prague%20hybrid"
         }
       ],
-      "link_verified": false,
+      "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
-      "title": "Marketing Lead (Head of Marketing)",
-      "company": "Wolt",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia",
-      "estimated_compensation_czk_per_month": "130000-210000",
+      "title": "Head of Platform",
+      "company": "Oddin.gg",
+      "role_type": "Fulltime",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "140000-220000",
       "match_rate": 96,
-      "url": "https://careers.wolt.com/en/jobs/7013916",
-      "source": "Employer career",
+      "url": "https://jobs.lever.co/oddin/d5f4a3ab-8c8e-4281-ad16-2bd5548e8cc5",
+      "source": "Lever discovery",
       "hr_sources": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Wolt%20Marketing%20Lead%20Prague"
-        }
-      ],
-      "link_verified": false,
-      "link_status": 404,
-      "link_checked_at": "2026-02-24"
-    },
-    {
-      "title": "Head of Digital Marketing",
-      "company": "Heureka Group",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "150000-230000",
-      "match_rate": 96,
-      "url": "https://onas.heureka.cz/head-of-digital-marketing/",
-      "source": "Employer career",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Heureka%20Head%20of%20Digital%20Marketing"
-        }
-      ],
-      "link_verified": false,
-      "link_status": 403,
-      "link_checked_at": "2026-02-24"
-    },
-    {
-      "title": "Head of Growth",
-      "company": "Proton",
-      "role_type": "Full-time",
-      "location": "Prague / Barcelona / Taipei / Skopje",
-      "estimated_compensation_czk_per_month": "180000-280000",
-      "match_rate": 94,
-      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4555348101",
-      "source": "Employer ATS",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Proton%20Head%20of%20Growth"
-        }
-      ],
-      "link_verified": false,
-      "link_status": 200,
-      "link_checked_at": "2026-02-24"
-    },
-    {
-      "title": "B2B Marketing Manager",
-      "company": "Heureka Group",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "105000-165000",
-      "match_rate": 93,
-      "url": "https://www.nelisa.com/heurekagroup/jobs/b2b-marketing-manager-heureka-group",
-      "source": "Employer ATS",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Heureka%20B2B%20Marketing%20Manager%20Prague"
-        }
-      ],
-      "link_verified": false,
-      "link_status": 404,
-      "link_checked_at": "2026-02-24"
-    },
-    {
-      "title": "Head of B2B Marketing",
-      "company": "Slevomat",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "140000-240000",
-      "match_rate": 92,
-      "url": "https://www.jobs.cz/prace/?q=Head%20of%20B2B%20Marketing%20Slevomat%20Praha%20hybrid",
-      "source": "Jobs.cz",
-      "hr_sources": [
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Platform%20Oddin.gg%20Prague%20hybrid"
+        },
         {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Head%20of%20B2B%20Marketing%20Slevomat%20Praha%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Head%20of%20Platform%20Oddin.gg%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Head%20of%20B2B%20Marketing%20Slevomat%20Praha%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Head%20of%20Platform%20Oddin.gg%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Head%20of%20B2B%20Marketing%20Slevomat%20Praha%20hybrid"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Head%20of%20B2B%20Marketing%20Slevomat%20Praha%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Head%20of%20Platform%20Oddin.gg%20Prague%20hybrid"
         }
       ],
-      "link_verified": false,
+      "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
-      "title": "Marketing Director CEE",
-      "company": "Alza.cz",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "140000-240000",
-      "match_rate": 92,
-      "url": "https://www.jobs.cz/prace/?q=Marketing%20Director%20CEE%20Alza.cz%20Praha%20hybrid",
-      "source": "Jobs.cz",
+      "title": "Head of Marketing/CMO",
+      "company": "Fitify",
+      "role_type": "Marketing",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "170000-280000",
+      "match_rate": 90,
+      "url": "https://jobs.lever.co/FitifyWorkouts/b8d86da9-5f06-4c4c-9d70-6d418f0fba76",
+      "source": "Lever discovery",
       "hr_sources": [
         {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Marketing%2FCMO%20Fitify%20Prague%20hybrid"
+        },
+        {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Marketing%20Director%20CEE%20Alza.cz%20Praha%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Head%20of%20Marketing%2FCMO%20Fitify%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Marketing%20Director%20CEE%20Alza.cz%20Praha%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Head%20of%20Marketing%2FCMO%20Fitify%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Marketing%20Director%20CEE%20Alza.cz%20Praha%20hybrid"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%20Director%20CEE%20Alza.cz%20Praha%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Head%20of%20Marketing%2FCMO%20Fitify%20Prague%20hybrid"
         }
       ],
-      "link_verified": false,
+      "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
-      "title": "Senior Regional Marketing Lead CEE",
-      "company": "Shoptet",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "140000-240000",
-      "match_rate": 92,
-      "url": "https://www.jobs.cz/prace/?q=Senior%20Regional%20Marketing%20Lead%20CEE%20Shoptet%20Praha%20hybrid",
-      "source": "Jobs.cz",
+      "title": "Product Manager/Owner | Health & Fitness Startup",
+      "company": "Fitify",
+      "role_type": "Engineer",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 82,
+      "url": "https://jobs.lever.co/FitifyWorkouts/53757d98-cbd8-4a19-90eb-ae48080a34b0",
+      "source": "Lever discovery",
       "hr_sources": [
         {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Product%20Manager%2FOwner%20%7C%20Health%20%26%20Fitness%20Startup%20Fitify%20Prague%20hybrid"
+        },
+        {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Senior%20Regional%20Marketing%20Lead%20CEE%20Shoptet%20Praha%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Product%20Manager%2FOwner%20%7C%20Health%20%26%20Fitness%20Startup%20Fitify%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Regional%20Marketing%20Lead%20CEE%20Shoptet%20Praha%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Product%20Manager%2FOwner%20%7C%20Health%20%26%20Fitness%20Startup%20Fitify%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Senior%20Regional%20Marketing%20Lead%20CEE%20Shoptet%20Praha%20hybrid"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Regional%20Marketing%20Lead%20CEE%20Shoptet%20Praha%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Product%20Manager%2FOwner%20%7C%20Health%20%26%20Fitness%20Startup%20Fitify%20Prague%20hybrid"
         }
       ],
-      "link_verified": false,
+      "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
-      "title": "Head of Growth Marketing",
-      "company": "Mews",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "140000-240000",
-      "match_rate": 92,
-      "url": "https://www.jobs.cz/prace/?q=Head%20of%20Growth%20Marketing%20Mews%20Praha%20hybrid",
-      "source": "Jobs.cz",
+      "title": "Office Manager - Czech Speaking (M/F/X)",
+      "company": "Biggie Group",
+      "role_type": "Full Time",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 82,
+      "url": "https://jobs.lever.co/biggie/dfc423c8-06ff-4436-a5c5-183251ba9ba3",
+      "source": "Lever discovery",
       "hr_sources": [
         {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Office%20Manager%20-%20Czech%20Speaking%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
+        },
+        {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Head%20of%20Growth%20Marketing%20Mews%20Praha%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Office%20Manager%20-%20Czech%20Speaking%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Head%20of%20Growth%20Marketing%20Mews%20Praha%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Office%20Manager%20-%20Czech%20Speaking%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Head%20of%20Growth%20Marketing%20Mews%20Praha%20hybrid"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Growth%20Marketing%20Mews%20Praha%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Office%20Manager%20-%20Czech%20Speaking%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
         }
       ],
-      "link_verified": false,
+      "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
-      "title": "B2B Demand Generation Lead",
-      "company": "Productboard",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "140000-240000",
-      "match_rate": 92,
-      "url": "https://www.jobs.cz/prace/?q=B2B%20Demand%20Generation%20Lead%20Productboard%20Praha%20hybrid",
-      "source": "Jobs.cz",
+      "title": "Principal Product Manager, Platform - Prague, Czechia",
+      "company": "Outreach",
+      "role_type": "Full-Time",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 78,
+      "url": "https://jobs.lever.co/outreach/d6c7de50-a4a0-4f6d-83f2-348b0927a17e",
+      "source": "Lever discovery",
       "hr_sources": [
         {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
+        },
+        {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=B2B%20Demand%20Generation%20Lead%20Productboard%20Praha%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=B2B%20Demand%20Generation%20Lead%20Productboard%20Praha%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=B2B%20Demand%20Generation%20Lead%20Productboard%20Praha%20hybrid"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=B2B%20Demand%20Generation%20Lead%20Productboard%20Praha%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
         }
       ],
-      "link_verified": false,
+      "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
-      "title": "Senior Performance Marketing Lead",
-      "company": "Pilulka",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "140000-240000",
-      "match_rate": 92,
-      "url": "https://www.jobs.cz/prace/?q=Senior%20Performance%20Marketing%20Lead%20Pilulka%20Praha%20hybrid",
-      "source": "Jobs.cz",
+      "title": "Marketing/PPC Manager",
+      "company": "Fitify",
+      "role_type": "Marketing",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 74,
+      "url": "https://jobs.lever.co/FitifyWorkouts/10b9c0ac-9981-4723-90b6-0f1a8cc77940",
+      "source": "Lever discovery",
       "hr_sources": [
         {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%2FPPC%20Manager%20Fitify%20Prague%20hybrid"
+        },
+        {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Senior%20Performance%20Marketing%20Lead%20Pilulka%20Praha%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Marketing%2FPPC%20Manager%20Fitify%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Performance%20Marketing%20Lead%20Pilulka%20Praha%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Marketing%2FPPC%20Manager%20Fitify%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Senior%20Performance%20Marketing%20Lead%20Pilulka%20Praha%20hybrid"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Performance%20Marketing%20Lead%20Pilulka%20Praha%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Marketing%2FPPC%20Manager%20Fitify%20Prague%20hybrid"
         }
       ],
-      "link_verified": false,
+      "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
-      "title": "Marketing Director DACH/CEE",
-      "company": "Rohlik Group",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "140000-240000",
-      "match_rate": 92,
-      "url": "https://www.jobs.cz/prace/?q=Marketing%20Director%20DACH%2FCEE%20Rohlik%20Group%20Praha%20hybrid",
-      "source": "Jobs.cz",
+      "title": "Marketing Manager - Czech Republic & Slovakia",
+      "company": "Binance",
+      "role_type": "Full-time Onsite or Remote",
+      "location": "Czech Republic, Prague",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 74,
+      "url": "https://jobs.lever.co/binance/6ff9b296-2564-44fd-9c2e-907c3e541a9c",
+      "source": "Lever discovery",
       "hr_sources": [
         {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%20Manager%20-%20Czech%20Republic%20%26%20Slovakia%20Binance%20Prague%20hybrid"
+        },
+        {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Marketing%20Director%20DACH%2FCEE%20Rohlik%20Group%20Praha%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Marketing%20Manager%20-%20Czech%20Republic%20%26%20Slovakia%20Binance%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Marketing%20Director%20DACH%2FCEE%20Rohlik%20Group%20Praha%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Marketing%20Manager%20-%20Czech%20Republic%20%26%20Slovakia%20Binance%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Marketing%20Director%20DACH%2FCEE%20Rohlik%20Group%20Praha%20hybrid"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%20Director%20DACH%2FCEE%20Rohlik%20Group%20Praha%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Marketing%20Manager%20-%20Czech%20Republic%20%26%20Slovakia%20Binance%20Prague%20hybrid"
         }
       ],
-      "link_verified": false,
+      "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
-      "title": "Head of E-commerce Marketing",
-      "company": "Notino",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "140000-240000",
-      "match_rate": 92,
-      "url": "https://www.jobs.cz/prace/?q=Head%20of%20E-commerce%20Marketing%20Notino%20Praha%20hybrid",
-      "source": "Jobs.cz",
+      "title": "AI Program Manager",
+      "company": "Pipedrive",
+      "role_type": "Full Time",
+      "location": "Czech Republic, Prague",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 74,
+      "url": "https://jobs.lever.co/pipedrive/01e66d0b-229f-4e68-b424-9e600ecb9cdf",
+      "source": "Lever discovery",
       "hr_sources": [
         {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Program%20Manager%20Pipedrive%20Prague%20hybrid"
+        },
+        {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Head%20of%20E-commerce%20Marketing%20Notino%20Praha%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=AI%20Program%20Manager%20Pipedrive%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Head%20of%20E-commerce%20Marketing%20Notino%20Praha%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=AI%20Program%20Manager%20Pipedrive%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Head%20of%20E-commerce%20Marketing%20Notino%20Praha%20hybrid"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Head%20of%20E-commerce%20Marketing%20Notino%20Praha%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=AI%20Program%20Manager%20Pipedrive%20Prague%20hybrid"
         }
       ],
-      "link_verified": false,
+      "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
-      "title": "Regional B2B Marketing Manager CEE",
-      "company": "SatoshiLabs",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "140000-240000",
-      "match_rate": 92,
-      "url": "https://www.jobs.cz/prace/?q=Regional%20B2B%20Marketing%20Manager%20CEE%20SatoshiLabs%20Praha%20hybrid",
-      "source": "Jobs.cz",
+      "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
+      "company": "Outreach",
+      "role_type": "Full-Time",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/outreach/d38579cd-cbde-45f1-880f-bd2eeaab116d",
+      "source": "Lever discovery",
       "hr_sources": [
         {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Technical%20Program%20Manager%2C%20Trust%20%26%20Safety%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
+        },
+        {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Regional%20B2B%20Marketing%20Manager%20CEE%20SatoshiLabs%20Praha%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Senior%20Technical%20Program%20Manager%2C%20Trust%20%26%20Safety%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Regional%20B2B%20Marketing%20Manager%20CEE%20SatoshiLabs%20Praha%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Technical%20Program%20Manager%2C%20Trust%20%26%20Safety%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Regional%20B2B%20Marketing%20Manager%20CEE%20SatoshiLabs%20Praha%20hybrid"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Regional%20B2B%20Marketing%20Manager%20CEE%20SatoshiLabs%20Praha%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Senior%20Technical%20Program%20Manager%2C%20Trust%20%26%20Safety%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
         }
       ],
-      "link_verified": false,
+      "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
     },
     {
-      "title": "Senior CRM & Lifecycle Lead",
-      "company": "Bonami",
-      "role_type": "Full-time",
-      "location": "Prague, Czechia (hybrid)",
-      "estimated_compensation_czk_per_month": "140000-240000",
-      "match_rate": 92,
-      "url": "https://www.jobs.cz/prace/?q=Senior%20CRM%20%26%20Lifecycle%20Lead%20Bonami%20Praha%20hybrid",
-      "source": "Jobs.cz",
+      "title": "Senior Data Analyst for a Digital Fitness Startup",
+      "company": "Fitify",
+      "role_type": "Engineer",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "100000-160000",
+      "match_rate": 66,
+      "url": "https://jobs.lever.co/FitifyWorkouts/b52c4cc6-c9e4-43a3-baf5-4869a50e14c4",
+      "source": "Lever discovery",
       "hr_sources": [
         {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Data%20Analyst%20for%20a%20Digital%20Fitness%20Startup%20Fitify%20Prague%20hybrid"
+        },
+        {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Senior%20CRM%20%26%20Lifecycle%20Lead%20Bonami%20Praha%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Senior%20Data%20Analyst%20for%20a%20Digital%20Fitness%20Startup%20Fitify%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20CRM%20%26%20Lifecycle%20Lead%20Bonami%20Praha%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Data%20Analyst%20for%20a%20Digital%20Fitness%20Startup%20Fitify%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Senior%20CRM%20%26%20Lifecycle%20Lead%20Bonami%20Praha%20hybrid"
-        },
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20CRM%20%26%20Lifecycle%20Lead%20Bonami%20Praha%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Senior%20Data%20Analyst%20for%20a%20Digital%20Fitness%20Startup%20Fitify%20Prague%20hybrid"
         }
       ],
-      "link_verified": false,
+      "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-02-24"
+      "link_checked_at": "2026-03-12"
+    },
+    {
+      "title": "Country Manager (Czech Republic and Slovakia)",
+      "company": "Ajax Systems",
+      "role_type": "Full-time, Remote",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 66,
+      "url": "https://jobs.lever.co/ajax/f1d1d6c2-b005-4c31-9e2d-34b3cf5a34a5",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Country%20Manager%20(Czech%20Republic%20and%20Slovakia)%20Ajax%20Systems%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Country%20Manager%20(Czech%20Republic%20and%20Slovakia)%20Ajax%20Systems%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Country%20Manager%20(Czech%20Republic%20and%20Slovakia)%20Ajax%20Systems%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Country%20Manager%20(Czech%20Republic%20and%20Slovakia)%20Ajax%20Systems%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-12"
+    },
+    {
+      "title": "Digital Sales Manager - Google Ads Launch Hungary",
+      "company": "Aleph",
+      "role_type": "Full time",
+      "location": "Budapest, Hungary",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 78,
+      "url": "https://jobs.lever.co/aleph/6bde2491-7a85-44d2-b2e6-3f6799c56b44",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Digital%20Sales%20Manager%20-%20Google%20Ads%20Launch%20Hungary%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Digital%20Sales%20Manager%20-%20Google%20Ads%20Launch%20Hungary%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Digital%20Sales%20Manager%20-%20Google%20Ads%20Launch%20Hungary%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Digital%20Sales%20Manager%20-%20Google%20Ads%20Launch%20Hungary%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-12"
+    },
+    {
+      "title": "Junior+/Middle Product Analyst",
+      "company": "Xsolla",
+      "role_type": "Full time",
+      "location": "Serbia",
+      "estimated_compensation_czk_per_month": "100000-160000",
+      "match_rate": 76,
+      "url": "https://jobs.lever.co/xsolla/9dd65143-4a37-4471-a9df-3e75fd3b6786",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-12"
+    },
+    {
+      "title": "Marketing Coordinator – Xsolla Ads",
+      "company": "Xsolla",
+      "role_type": "Full time",
+      "location": "Remote USA",
+      "estimated_compensation_czk_per_month": "100000-160000",
+      "match_rate": 72,
+      "url": "https://jobs.lever.co/xsolla/f248fe90-50b6-42e3-84ae-4cfbb24ec599",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%20Coordinator%20%E2%80%93%20Xsolla%20Ads%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Marketing%20Coordinator%20%E2%80%93%20Xsolla%20Ads%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Marketing%20Coordinator%20%E2%80%93%20Xsolla%20Ads%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Marketing%20Coordinator%20%E2%80%93%20Xsolla%20Ads%20Xsolla%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-12"
+    },
+    {
+      "title": "User Acquisition (UA) Manager",
+      "company": "Xsolla",
+      "role_type": "Full-time",
+      "location": "Remote",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/xsolla/58ec37bb-359a-4af8-a256-f725be0e3a56",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=User%20Acquisition%20(UA)%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=User%20Acquisition%20(UA)%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=User%20Acquisition%20(UA)%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=User%20Acquisition%20(UA)%20Manager%20Xsolla%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-12"
+    },
+    {
+      "title": "Client Solutions Manager",
+      "company": "Aleph",
+      "role_type": "Full time",
+      "location": "Zagreb, Croatia",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/aleph/11abbb3b-161b-49c2-a740-9f37e81a9469",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-12"
+    },
+    {
+      "title": "Client Solutions Manager",
+      "company": "Aleph",
+      "role_type": "Full time",
+      "location": "Ljubljana, Slovenia",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/aleph/d40d4882-11c9-4bb9-a849-8b42cace8380",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-12"
     }
   ]
 };
