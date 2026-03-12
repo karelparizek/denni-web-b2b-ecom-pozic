@@ -148,7 +148,7 @@
         </thead>
         <tbody id="rows"></tbody>
       </table>
-      <div class="foot">Zobrazuje se strict Praha/hybrid top 20. Ověřené odkazy jsou řazeny výš, neověřené jsou fallback pro doplnění na 20.</div>
+      <div class="foot">Zobrazuje se až 20 přímých a aktivně ověřených inzerátů. Priorita je Praha a hybrid, při nedostatku se doplňuje CEE a Europe remote/hybrid fallback.</div>
     </section>
   </div>
 
@@ -161,7 +161,7 @@
     const reloadBtn = document.getElementById('reload');
 
     function fmtRange(value) {
-      return value.replace('-', ' - ');
+      return String(value || '-').replace('-', ' - ');
     }
 
     function setStatus(text) {
@@ -249,7 +249,14 @@
           .slice(0, 20);
 
         renderRows(roles);
-        metaEl.textContent = `Aktualizovano: ${data.generated_at} | Pocet pozic: ${roles.length} | Timezone: ${data.timezone}`;
+        const generatedAt = data.generated_at || '-';
+        const checkedAt = data.last_checked_at || generatedAt;
+        const pragueHybridRoles = Number(data.prague_hybrid_roles || 0);
+        const targetRoles = Number(data.target_roles || roles.length);
+        const statusSuffix = data.last_run_status === 'reused_previous_data' && data.last_run_reason
+          ? ` | Rezim: fallback (${data.last_run_reason})`
+          : '';
+        metaEl.textContent = `Dataset z: ${generatedAt} | Posledni kontrola: ${checkedAt} | Praha/hybrid: ${pragueHybridRoles} | Celkem: ${roles.length}/${targetRoles} | Timezone: ${data.timezone}${statusSuffix}`;
         let modeLabel = 'Jen reload dat';
         if (fullRecheckDone && reusedPreviousData) {
           modeLabel = 'Full re-check fallback (stara data)';

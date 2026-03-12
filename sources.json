@@ -1,6 +1,29 @@
 {
   "timezone": "Europe/Prague",
   "currency": "CZK",
+  "discovery": {
+    "target_roles": 20,
+    "greenhouse_boards": [
+      { "token": "proton", "company": "Proton", "label": "Greenhouse" },
+      { "token": "groupon", "company": "Groupon", "label": "Greenhouse" },
+      { "token": "toogoodtogo", "company": "Too Good To Go", "label": "Greenhouse" },
+      { "token": "jetbrains", "company": "JetBrains", "label": "Greenhouse" }
+    ],
+    "lever_companies": [
+      { "token": "oddin", "company": "Oddin.gg", "label": "Lever" },
+      { "token": "FitifyWorkouts", "company": "Fitify", "label": "Lever" },
+      { "token": "ajax", "company": "Ajax Systems", "label": "Lever" },
+      { "token": "xsolla", "company": "Xsolla", "label": "Lever" },
+      { "token": "binance", "company": "Binance", "label": "Lever" },
+      { "token": "dnb", "company": "Dun & Bradstreet", "label": "Lever" },
+      { "token": "payugpo", "company": "PayU", "label": "Lever" },
+      { "token": "aleph", "company": "Aleph", "label": "Lever" },
+      { "token": "pipedrive", "company": "Pipedrive", "label": "Lever" },
+      { "token": "biggie", "company": "Biggie Group", "label": "Lever" },
+      { "token": "outreach", "company": "Outreach", "label": "Lever" },
+      { "token": "commercetools", "company": "commercetools", "label": "Lever" }
+    ]
+  },
   "roles": [
     {
       "title": "Senior B2B Marketing Manager VELOQ",
