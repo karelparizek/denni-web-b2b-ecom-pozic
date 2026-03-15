@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-03-14T07:52:02.826Z",
-  "last_checked_at": "2026-03-14T07:52:02.826Z",
+  "generated_at": "2026-03-15T07:57:18.388Z",
+  "last_checked_at": "2026-03-15T07:57:18.388Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Oddin.gg Global Marketing Manager",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Head of Sales for a New Project",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Head of Platform",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Office Manager - Czech Speaking (M/F/X)",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Digital Sales Manager - Google Ads Launch Hungary",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Junior+/Middle Product Analyst",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Marketing Coordinator – Xsolla Ads",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "User Acquisition (UA) Manager",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Client Solutions Manager",
@@ -566,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Client Solutions Manager",
@@ -597,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     },
     {
       "title": "Client Solutions Manager",
@@ -628,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-14"
+      "link_checked_at": "2026-03-15"
     }
   ]
 };
