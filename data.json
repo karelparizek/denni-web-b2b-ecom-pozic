@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-19T07:12:38.444Z",
-  "last_checked_at": "2026-03-19T07:12:38.444Z",
+  "generated_at": "2026-03-20T07:11:46.860Z",
+  "last_checked_at": "2026-03-20T07:11:46.860Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 13,
+  "prague_hybrid_roles": 14,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Oddin.gg Global Marketing Manager",
@@ -70,7 +70,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Head of Sales for a New Project",
@@ -101,7 +101,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Head of Platform",
@@ -132,7 +132,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -163,7 +163,38 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
+    },
+    {
+      "title": "Esports Data Operator (Part-time)",
+      "company": "Oddin.gg",
+      "role_type": "Freelance Contract",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "100000-160000",
+      "match_rate": 86,
+      "url": "https://jobs.lever.co/oddin/cf311a12-a381-419b-bf14-6d0883a8cba6",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Esports%20Data%20Operator%20(Part-time)%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Esports%20Data%20Operator%20(Part-time)%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Esports%20Data%20Operator%20(Part-time)%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Esports%20Data%20Operator%20(Part-time)%20Oddin.gg%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -194,7 +225,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Office Manager - Czech Speaking (M/F/X)",
@@ -225,7 +256,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -256,7 +287,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -287,7 +318,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -318,7 +349,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -349,7 +380,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -380,7 +411,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -411,7 +442,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Digital Sales Manager - Google Ads Launch Hungary",
@@ -442,7 +473,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Junior+/Middle Product Analyst",
@@ -473,7 +504,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Marketing Coordinator – Xsolla Ads",
@@ -504,7 +535,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "User Acquisition (UA) Manager",
@@ -535,7 +566,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Client Solutions Manager",
@@ -566,7 +597,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     },
     {
       "title": "Client Solutions Manager",
@@ -597,38 +628,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-19"
-    },
-    {
-      "title": "Client Solutions Manager",
-      "company": "Aleph",
-      "role_type": "Full time",
-      "location": "Belgrade, Serbia",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 70,
-      "url": "https://jobs.lever.co/aleph/d85de549-8768-4515-bc0c-bcd8c8f704b3",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-03-19"
+      "link_checked_at": "2026-03-20"
     }
   ]
 }
