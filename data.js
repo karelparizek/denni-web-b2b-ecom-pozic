@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-03-25T07:16:49.168Z",
-  "last_checked_at": "2026-03-25T07:16:49.168Z",
+  "generated_at": "2026-03-26T07:35:01.001Z",
+  "last_checked_at": "2026-03-26T07:35:01.001Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 16,
+  "prague_hybrid_roles": 18,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Oddin.gg Global Marketing Manager",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Head of Sales for a New Project",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Business Development Manager – AI Live Dealer Solutions",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Head of Platform",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Esports Data Operator (Part-time)",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Office Manager - Czech Speaking (M/F/X)",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -349,7 +349,69 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
+    },
+    {
+      "title": "Senior Financial Analyst – Revenue Ops",
+      "company": "Oddin.gg",
+      "role_type": "Freelance Contract",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "100000-160000",
+      "match_rate": 76,
+      "url": "https://jobs.lever.co/oddin/736f513f-bfc8-4d3f-9ed6-98b077af294f",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Financial%20Analyst%20%E2%80%93%20Revenue%20Ops%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Senior%20Financial%20Analyst%20%E2%80%93%20Revenue%20Ops%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Financial%20Analyst%20%E2%80%93%20Revenue%20Ops%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Senior%20Financial%20Analyst%20%E2%80%93%20Revenue%20Ops%20Oddin.gg%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-26"
+    },
+    {
+      "title": "Strategy Associate",
+      "company": "Oddin.gg",
+      "role_type": "Freelance Contract",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "70000-120000",
+      "match_rate": 76,
+      "url": "https://jobs.lever.co/oddin/f9caf8e2-31da-4fbe-90d2-d67c8b07f9e8",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Strategy%20Associate%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Strategy%20Associate%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Strategy%20Associate%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Strategy%20Associate%20Oddin.gg%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -380,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -411,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -442,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -473,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -504,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Senior Marketing Manager, Xsolla Mall",
@@ -535,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     },
     {
       "title": "Digital Sales Manager - Google Ads Launch Hungary",
@@ -566,69 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-25"
-    },
-    {
-      "title": "Junior+/Middle Product Analyst",
-      "company": "Xsolla",
-      "role_type": "Full time",
-      "location": "Serbia",
-      "estimated_compensation_czk_per_month": "100000-160000",
-      "match_rate": 76,
-      "url": "https://jobs.lever.co/xsolla/9dd65143-4a37-4471-a9df-3e75fd3b6786",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-03-25"
-    },
-    {
-      "title": "Marketing Coordinator – Xsolla Ads",
-      "company": "Xsolla",
-      "role_type": "Full time",
-      "location": "Remote USA",
-      "estimated_compensation_czk_per_month": "100000-160000",
-      "match_rate": 72,
-      "url": "https://jobs.lever.co/xsolla/f248fe90-50b6-42e3-84ae-4cfbb24ec599",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%20Coordinator%20%E2%80%93%20Xsolla%20Ads%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Marketing%20Coordinator%20%E2%80%93%20Xsolla%20Ads%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Marketing%20Coordinator%20%E2%80%93%20Xsolla%20Ads%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Marketing%20Coordinator%20%E2%80%93%20Xsolla%20Ads%20Xsolla%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-03-25"
+      "link_checked_at": "2026-03-26"
     }
   ]
 };
