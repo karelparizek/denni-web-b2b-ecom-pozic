@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T07:35:01.001Z",
-  "last_checked_at": "2026-03-26T07:35:01.001Z",
+  "generated_at": "2026-03-27T07:34:23.981Z",
+  "last_checked_at": "2026-03-27T07:34:23.981Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,38 +39,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
-    },
-    {
-      "title": "Oddin.gg Global Marketing Manager",
-      "company": "Oddin.gg",
-      "role_type": "Freelance contract",
-      "location": "Prague (remote/hybrid)",
-      "estimated_compensation_czk_per_month": "120000-190000",
-      "match_rate": 99,
-      "url": "https://jobs.lever.co/oddin/3ec9c3c2-9e81-402b-a131-cf0c5f924fb4",
-      "source": "Employer ATS",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Oddin.gg%20Global%20Marketing%20Manager%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Oddin.gg%20Global%20Marketing%20Manager%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Oddin.gg%20Global%20Marketing%20Manager%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Oddin.gg%20Global%20Marketing%20Manager%20Oddin.gg%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Head of Sales for a New Project",
@@ -101,7 +70,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Business Development Manager – AI Live Dealer Solutions",
@@ -132,7 +101,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Head of Platform",
@@ -163,7 +132,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -194,7 +163,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -225,7 +194,38 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
+    },
+    {
+      "title": "Senior Product Manager - Esims",
+      "company": "Oddin.gg",
+      "role_type": "Fulltime",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 88,
+      "url": "https://jobs.lever.co/oddin/794b78a3-cf61-4944-818b-c60e1706e100",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Product%20Manager%20-%20Esims%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Senior%20Product%20Manager%20-%20Esims%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Product%20Manager%20-%20Esims%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Senior%20Product%20Manager%20-%20Esims%20Oddin.gg%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Esports Data Operator (Part-time)",
@@ -256,7 +256,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -287,7 +287,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Office Manager - Czech Speaking (M/F/X)",
@@ -318,7 +318,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -349,7 +349,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Senior Financial Analyst – Revenue Ops",
@@ -380,7 +380,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Strategy Associate",
@@ -411,7 +411,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -442,7 +442,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -473,7 +473,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -504,7 +504,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -535,7 +535,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -566,7 +566,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Senior Marketing Manager, Xsolla Mall",
@@ -597,7 +597,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     },
     {
       "title": "Digital Sales Manager - Google Ads Launch Hungary",
@@ -628,7 +628,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-26"
+      "link_checked_at": "2026-03-27"
     }
   ]
 }
