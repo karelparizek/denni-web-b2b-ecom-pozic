@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-30T07:59:12.727Z",
-  "last_checked_at": "2026-03-30T07:59:12.727Z",
+  "generated_at": "2026-03-31T07:43:04.206Z",
+  "last_checked_at": "2026-03-31T07:43:04.206Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 18,
+  "prague_hybrid_roles": 17,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Head of Sales for a New Project",
@@ -70,7 +70,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Business Development Manager – AI Live Dealer Solutions",
@@ -101,7 +101,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Head of Platform",
@@ -132,7 +132,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -163,7 +163,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -194,7 +194,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -225,7 +225,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Esports Data Operator (Part-time)",
@@ -256,7 +256,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -287,38 +287,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
-    },
-    {
-      "title": "Office Manager - Czech Speaking (M/F/X)",
-      "company": "Biggie Group",
-      "role_type": "Full Time",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 82,
-      "url": "https://jobs.lever.co/biggie/dfc423c8-06ff-4436-a5c5-183251ba9ba3",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Office%20Manager%20-%20Czech%20Speaking%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Office%20Manager%20-%20Czech%20Speaking%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Office%20Manager%20-%20Czech%20Speaking%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Office%20Manager%20-%20Czech%20Speaking%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -349,7 +318,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Senior Financial Analyst – Revenue Ops",
@@ -380,7 +349,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -411,7 +380,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -442,7 +411,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -473,7 +442,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -504,7 +473,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -535,7 +504,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -566,7 +535,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Senior Marketing Manager, Xsolla Mall",
@@ -597,7 +566,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
     },
     {
       "title": "Digital Sales Manager - Google Ads Launch Hungary",
@@ -628,7 +597,38 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-03-30"
+      "link_checked_at": "2026-03-31"
+    },
+    {
+      "title": "Junior+/Middle Product Analyst",
+      "company": "Xsolla",
+      "role_type": "Full time",
+      "location": "Serbia",
+      "estimated_compensation_czk_per_month": "100000-160000",
+      "match_rate": 76,
+      "url": "https://jobs.lever.co/xsolla/9dd65143-4a37-4471-a9df-3e75fd3b6786",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-03-31"
     }
   ]
 }
