@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-04-05T07:21:08.570Z",
-  "last_checked_at": "2026-04-05T07:21:08.570Z",
+  "generated_at": "2026-04-06T08:00:28.023Z",
+  "last_checked_at": "2026-04-06T08:00:28.023Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Head of Sales for a New Project",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Business Development Manager – AI Live Dealer Solutions",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Esports Data Operator (Part-time)",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Senior Financial Analyst – Revenue Ops",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Director of Ad Sales — Xsolla Advertising",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Senior Marketing Manager, Xsolla Mall",
@@ -566,38 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
-    },
-    {
-      "title": "Digital Sales Manager - Google Ads Launch Hungary",
-      "company": "Aleph",
-      "role_type": "Full time",
-      "location": "Budapest, Hungary",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 78,
-      "url": "https://jobs.lever.co/aleph/6bde2491-7a85-44d2-b2e6-3f6799c56b44",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Digital%20Sales%20Manager%20-%20Google%20Ads%20Launch%20Hungary%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Digital%20Sales%20Manager%20-%20Google%20Ads%20Launch%20Hungary%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Digital%20Sales%20Manager%20-%20Google%20Ads%20Launch%20Hungary%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Digital%20Sales%20Manager%20-%20Google%20Ads%20Launch%20Hungary%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
     },
     {
       "title": "Junior+/Middle Product Analyst",
@@ -628,7 +597,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-05"
+      "link_checked_at": "2026-04-06"
+    },
+    {
+      "title": "Director of R&D Portfolio and Operations Management",
+      "company": "Pipedrive",
+      "role_type": "Full Time",
+      "location": "Estonia, Tallinn",
+      "estimated_compensation_czk_per_month": "170000-280000",
+      "match_rate": 72,
+      "url": "https://jobs.lever.co/pipedrive/7a2bd1a2-d9f2-4853-aff1-e2b8839959f0",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Director%20of%20R%26D%20Portfolio%20and%20Operations%20Management%20Pipedrive%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Director%20of%20R%26D%20Portfolio%20and%20Operations%20Management%20Pipedrive%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Director%20of%20R%26D%20Portfolio%20and%20Operations%20Management%20Pipedrive%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Director%20of%20R%26D%20Portfolio%20and%20Operations%20Management%20Pipedrive%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-04-06"
     }
   ]
 };
