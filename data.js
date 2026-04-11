@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-04-10T07:57:48.400Z",
-  "last_checked_at": "2026-04-10T07:57:48.400Z",
+  "generated_at": "2026-04-11T07:15:34.338Z",
+  "last_checked_at": "2026-04-11T07:15:34.338Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Head of Sales for a New Project",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Business Development Manager – AI Live Dealer Solutions",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Esports Data Operator (Part-time)",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -256,12 +256,12 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
-      "title": "IT Administrator - Application & Security (M/F/X)",
+      "title": "IT Administrator - Application & Security (Part-Time) (M/F/X)",
       "company": "Biggie Group",
-      "role_type": "Full Time",
+      "role_type": "Part Time",
       "location": "Prague",
       "estimated_compensation_czk_per_month": "100000-160000",
       "match_rate": 80,
@@ -270,24 +270,24 @@ window.DASHBOARD_DATA = {
       "hr_sources": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=IT%20Administrator%20-%20Application%20%26%20Security%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
+          "url": "https://www.linkedin.com/jobs/search/?keywords=IT%20Administrator%20-%20Application%20%26%20Security%20(Part-Time)%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
         },
         {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=IT%20Administrator%20-%20Application%20%26%20Security%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=IT%20Administrator%20-%20Application%20%26%20Security%20(Part-Time)%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=IT%20Administrator%20-%20Application%20%26%20Security%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=IT%20Administrator%20-%20Application%20%26%20Security%20(Part-Time)%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=IT%20Administrator%20-%20Application%20%26%20Security%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=IT%20Administrator%20-%20Application%20%26%20Security%20(Part-Time)%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
         }
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Senior Financial Analyst – Revenue Ops",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Director of Ad Sales — Xsolla Advertising",
@@ -566,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Senior Marketing Manager, Xsolla Mall",
@@ -597,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     },
     {
       "title": "Digital Sales Manager - Google Ads Launch Hungary",
@@ -628,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-10"
+      "link_checked_at": "2026-04-11"
     }
   ]
 };
