@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-04-12T07:42:43.870Z",
-  "last_checked_at": "2026-04-12T07:42:43.870Z",
+  "generated_at": "2026-04-13T08:21:19.338Z",
+  "last_checked_at": "2026-04-13T08:21:19.338Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Head of Sales for a New Project",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Business Development Manager – AI Live Dealer Solutions",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Esports Data Operator (Part-time)",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "IT Administrator - Application & Security (Part-Time) (M/F/X)",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Senior Financial Analyst – Revenue Ops",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Director of Ad Sales — Xsolla Advertising",
@@ -566,38 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
-    },
-    {
-      "title": "Senior Marketing Manager, Xsolla Mall",
-      "company": "Xsolla",
-      "role_type": "Full time",
-      "location": "Remote",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 80,
-      "url": "https://jobs.lever.co/xsolla/b1afb599-3c16-4603-9f94-1bb6fc57a3ef",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Marketing%20Manager%2C%20Xsolla%20Mall%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Senior%20Marketing%20Manager%2C%20Xsolla%20Mall%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Marketing%20Manager%2C%20Xsolla%20Mall%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Senior%20Marketing%20Manager%2C%20Xsolla%20Mall%20Xsolla%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
     },
     {
       "title": "Digital Sales Manager - Google Ads Launch Hungary",
@@ -628,7 +597,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-12"
+      "link_checked_at": "2026-04-13"
+    },
+    {
+      "title": "Junior+/Middle Product Analyst",
+      "company": "Xsolla",
+      "role_type": "Full time",
+      "location": "Serbia",
+      "estimated_compensation_czk_per_month": "100000-160000",
+      "match_rate": 76,
+      "url": "https://jobs.lever.co/xsolla/9dd65143-4a37-4471-a9df-3e75fd3b6786",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-04-13"
     }
   ]
 };
