@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-04-21T08:07:06.215Z",
-  "last_checked_at": "2026-04-21T08:07:06.215Z",
+  "generated_at": "2026-04-22T08:04:06.895Z",
+  "last_checked_at": "2026-04-22T08:04:06.895Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Business Development Manager – AI Live Dealer Solutions",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "IT Administrator - Application & Security (Part-Time) (M/F/X)",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -442,38 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
-    },
-    {
-      "title": "Director of Ad Sales — Xsolla Advertising",
-      "company": "Xsolla",
-      "role_type": "Full time",
-      "location": "Remote USA",
-      "estimated_compensation_czk_per_month": "170000-280000",
-      "match_rate": 82,
-      "url": "https://jobs.lever.co/xsolla/330f9716-712b-4082-b373-d2bc2598567b",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Director%20of%20Ad%20Sales%20%E2%80%94%20Xsolla%20Advertising%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Director%20of%20Ad%20Sales%20%E2%80%94%20Xsolla%20Advertising%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Director%20of%20Ad%20Sales%20%E2%80%94%20Xsolla%20Advertising%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Director%20of%20Ad%20Sales%20%E2%80%94%20Xsolla%20Advertising%20Xsolla%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Digital Sales Manager - Google Ads Launch Hungary",
@@ -504,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Junior+/Middle Product Analyst",
@@ -535,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Director of R&D Portfolio and Operations Management",
@@ -566,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -597,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -628,7 +597,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-21"
+      "link_checked_at": "2026-04-22"
+    },
+    {
+      "title": "Client Solutions Manager - Pinterest 📌",
+      "company": "Aleph",
+      "role_type": "Full time - permanent",
+      "location": "Belgrade, Serbia",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/aleph/e7972a4c-d3e3-4724-a2a9-27111017b244",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-04-22"
     }
   ]
 };
