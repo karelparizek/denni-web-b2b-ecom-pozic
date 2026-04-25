@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-04-24T08:20:24.252Z",
-  "last_checked_at": "2026-04-24T08:20:24.252Z",
+  "generated_at": "2026-04-25T07:43:43.118Z",
+  "last_checked_at": "2026-04-25T07:43:43.118Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 15,
+  "prague_hybrid_roles": 16,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Oddin.gg Marketing Manager",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Business Development Manager – AI Live Dealer Solutions",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "IT Administrator - Application & Security (Part-Time) (M/F/X)",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -287,7 +287,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
+    },
+    {
+      "title": "Program Manager, Supportability - Prague, Czechia",
+      "company": "Outreach",
+      "role_type": "Full-Time",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 78,
+      "url": "https://jobs.lever.co/outreach/b3f78b9c-0caa-49db-a74a-5a628e092f5d",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -318,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -349,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -380,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -411,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -442,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -473,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Director of Product Analytics",
@@ -504,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Junior+/Middle Product Analyst",
@@ -535,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Director of R&D Portfolio and Operations Management",
@@ -566,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -597,38 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-04-24"
-    },
-    {
-      "title": "Client Solutions Manager - Pinterest 📌",
-      "company": "Aleph",
-      "role_type": "Full time - permanent",
-      "location": "Ljubljana, Slovenia",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 70,
-      "url": "https://jobs.lever.co/aleph/2e256d73-aaa0-469c-955d-0696ac87d3d7",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-04-24"
+      "link_checked_at": "2026-04-25"
     }
   ]
 };
