@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-05-04T08:41:31.693Z",
-  "last_checked_at": "2026-05-04T08:41:31.693Z",
+  "generated_at": "2026-05-05T08:25:44.484Z",
+  "last_checked_at": "2026-05-05T08:25:44.484Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,10 +39,10 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
-      "title": "Business Development Manager – AI Live Dealer Solutions",
+      "title": "Business Development Manager – Online Casino Solutions",
       "company": "Oddin.gg",
       "role_type": "Freelance Contract",
       "location": "Prague",
@@ -53,24 +53,24 @@ window.DASHBOARD_DATA = {
       "hr_sources": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Development%20Manager%20%E2%80%93%20AI%20Live%20Dealer%20Solutions%20Oddin.gg%20Prague%20hybrid"
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Development%20Manager%20%E2%80%93%20Online%20Casino%20Solutions%20Oddin.gg%20Prague%20hybrid"
         },
         {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Business%20Development%20Manager%20%E2%80%93%20AI%20Live%20Dealer%20Solutions%20Oddin.gg%20Prague%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Business%20Development%20Manager%20%E2%80%93%20Online%20Casino%20Solutions%20Oddin.gg%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Business%20Development%20Manager%20%E2%80%93%20AI%20Live%20Dealer%20Solutions%20Oddin.gg%20Prague%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Business%20Development%20Manager%20%E2%80%93%20Online%20Casino%20Solutions%20Oddin.gg%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Business%20Development%20Manager%20%E2%80%93%20AI%20Live%20Dealer%20Solutions%20Oddin.gg%20Prague%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Business%20Development%20Manager%20%E2%80%93%20Online%20Casino%20Solutions%20Oddin.gg%20Prague%20hybrid"
         }
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "IT Administrator - Application & Security (Part-Time) (M/F/X)",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Program Manager, Supportability - Prague, Czechia",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Director of Product Analytics",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Junior+/Middle Product Analyst",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Director of R&D Portfolio and Operations Management",
@@ -566,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -597,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -628,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-04"
+      "link_checked_at": "2026-05-05"
     }
   ]
 };
