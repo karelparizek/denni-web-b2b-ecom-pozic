@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-05-06T08:39:46.028Z",
-  "last_checked_at": "2026-05-06T08:39:46.028Z",
+  "generated_at": "2026-05-07T08:46:54.153Z",
+  "last_checked_at": "2026-05-07T08:46:54.153Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 15,
+  "prague_hybrid_roles": 14,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Business Development Manager – Online Casino Solutions",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "IT Administrator - Application & Security (Part-Time) (M/F/X)",
@@ -225,38 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
-    },
-    {
-      "title": "Principal Product Manager, Platform - Prague, Czechia",
-      "company": "Outreach",
-      "role_type": "Full-Time",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 78,
-      "url": "https://jobs.lever.co/outreach/d6c7de50-a4a0-4f6d-83f2-348b0927a17e",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Program Manager, Supportability - Prague, Czechia",
@@ -287,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -318,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -349,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -380,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Senior Technical Program Manager, Trust & Safety - Prague, Czechia",
@@ -411,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -442,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -473,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Director of Product Analytics",
@@ -504,38 +473,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
-      "title": "Junior+/Middle Product Analyst",
-      "company": "Xsolla",
-      "role_type": "Full time",
-      "location": "Serbia",
-      "estimated_compensation_czk_per_month": "100000-160000",
-      "match_rate": 76,
-      "url": "https://jobs.lever.co/xsolla/9dd65143-4a37-4471-a9df-3e75fd3b6786",
+      "title": "Product Manager (R-19168)",
+      "company": "Dun & Bradstreet",
+      "role_type": "Employee: Full Time",
+      "location": "Warsaw - Poland",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 78,
+      "url": "https://jobs.lever.co/dnb/a1c3418f-6891-4cb0-b8c3-1468b954d175",
       "source": "Lever discovery",
       "hr_sources": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Product%20Manager%20(R-19168)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
         },
         {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Product%20Manager%20(R-19168)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Product%20Manager%20(R-19168)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Junior%2B%2FMiddle%20Product%20Analyst%20Xsolla%20Prague%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Product%20Manager%20(R-19168)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
         }
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Director of R&D Portfolio and Operations Management",
@@ -566,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -597,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -628,7 +597,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-06"
+      "link_checked_at": "2026-05-07"
+    },
+    {
+      "title": "Client Solutions Manager - Pinterest 📌",
+      "company": "Aleph",
+      "role_type": "Full time - permanent",
+      "location": "Ljubljana, Slovenia",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/aleph/2e256d73-aaa0-469c-955d-0696ac87d3d7",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-05-07"
     }
   ]
 };
