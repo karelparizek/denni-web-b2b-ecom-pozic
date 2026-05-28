@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-05-27T10:17:38.242Z",
-  "last_checked_at": "2026-05-27T10:17:38.242Z",
+  "generated_at": "2026-05-28T10:22:26.430Z",
+  "last_checked_at": "2026-05-28T10:22:26.430Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Esports",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Business Development Manager – Online Casino Solutions",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "IT Administrator - Application & Security (Part-Time) (M/F/X)",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Program Manager, Supportability - Prague, Czechia",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Director of Product Analytics",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Chief Technology Officer (CTO)",
@@ -566,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -597,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -628,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-05-27"
+      "link_checked_at": "2026-05-28"
     }
   ]
 };
