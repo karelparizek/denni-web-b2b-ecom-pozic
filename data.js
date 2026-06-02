@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-06-01T12:07:38.404Z",
-  "last_checked_at": "2026-06-01T12:07:38.404Z",
+  "generated_at": "2026-06-02T10:53:30.831Z",
+  "last_checked_at": "2026-06-02T10:53:30.831Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Esports",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Business Development Manager – Online Casino Solutions",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Director Fast Betting Content (FBC)",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "IAM Specialist – Identity & Access Management (Part-Time) (M/F/X)",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -287,7 +287,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
+    },
+    {
+      "title": "Program Manager, Supportability - Prague, Czechia",
+      "company": "Outreach",
+      "role_type": "Full-Time",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 78,
+      "url": "https://jobs.lever.co/outreach/b3f78b9c-0caa-49db-a74a-5a628e092f5d",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -318,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -349,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -380,38 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
-    },
-    {
-      "title": "Program Manager, Supportability - Prague, Czechia",
-      "company": "Outreach",
-      "role_type": "Full-Time",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 70,
-      "url": "https://jobs.lever.co/outreach/b3f78b9c-0caa-49db-a74a-5a628e092f5d",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Program%20Manager%2C%20Supportability%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -473,38 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
-    },
-    {
-      "title": "Director of Product Analytics",
-      "company": "Pipedrive",
-      "role_type": "Full Time",
-      "location": "Estonia, Tallinn",
-      "estimated_compensation_czk_per_month": "170000-280000",
-      "match_rate": 80,
-      "url": "https://jobs.lever.co/pipedrive/d1043579-adae-4c1b-b503-3d683505d6a1",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Director%20of%20Product%20Analytics%20Pipedrive%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Director%20of%20Product%20Analytics%20Pipedrive%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Director%20of%20Product%20Analytics%20Pipedrive%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Director%20of%20Product%20Analytics%20Pipedrive%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -535,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Chief Technology Officer (CTO)",
@@ -566,7 +535,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
+    },
+    {
+      "title": "Client Success Director, West (R-19218)",
+      "company": "Dun & Bradstreet",
+      "role_type": "Employee: Full Time",
+      "location": "Remote - United States",
+      "estimated_compensation_czk_per_month": "170000-280000",
+      "match_rate": 74,
+      "url": "https://jobs.lever.co/dnb/8bd59b6d-231c-4565-972c-00e3b5a4d843",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Success%20Director%2C%20West%20(R-19218)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Success%20Director%2C%20West%20(R-19218)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Success%20Director%2C%20West%20(R-19218)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Success%20Director%2C%20West%20(R-19218)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -597,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -628,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-01"
+      "link_checked_at": "2026-06-02"
     }
   ]
 };
