@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-06-04T10:10:56.381Z",
-  "last_checked_at": "2026-06-04T10:10:56.381Z",
+  "generated_at": "2026-06-05T10:13:28.903Z",
+  "last_checked_at": "2026-06-05T10:13:28.903Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 16,
+  "prague_hybrid_roles": 14,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Esports",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -101,69 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
-    },
-    {
-      "title": "Business Development Manager – Online Casino Solutions",
-      "company": "Oddin.gg",
-      "role_type": "Freelance Contract",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 98,
-      "url": "https://jobs.lever.co/oddin/18ca5a45-5ee5-476f-85ae-1e509c26ca07",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Development%20Manager%20%E2%80%93%20Online%20Casino%20Solutions%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Business%20Development%20Manager%20%E2%80%93%20Online%20Casino%20Solutions%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Business%20Development%20Manager%20%E2%80%93%20Online%20Casino%20Solutions%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Business%20Development%20Manager%20%E2%80%93%20Online%20Casino%20Solutions%20Oddin.gg%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-06-04"
-    },
-    {
-      "title": "Director Fast Betting Content (FBC)",
-      "company": "Oddin.gg",
-      "role_type": "Freelance Contract",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "170000-280000",
-      "match_rate": 94,
-      "url": "https://jobs.lever.co/oddin/c6465db0-9851-4627-b51f-e0316faa8ef0",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Director%20Fast%20Betting%20Content%20(FBC)%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Director%20Fast%20Betting%20Content%20(FBC)%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Director%20Fast%20Betting%20Content%20(FBC)%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Director%20Fast%20Betting%20Content%20(FBC)%20Oddin.gg%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -194,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -225,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "IAM Specialist – Identity & Access Management (Part-Time) (M/F/X)",
@@ -256,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -287,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -318,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Program Manager, Supportability - Prague, Czechia",
@@ -349,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -380,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -411,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -442,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -473,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -504,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -535,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Chief Technology Officer (CTO)",
@@ -566,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Client Success Director, West (R-19218)",
@@ -597,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -628,7 +566,69 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-04"
+      "link_checked_at": "2026-06-05"
+    },
+    {
+      "title": "Junior UA/Growth Manager",
+      "company": "Xsolla",
+      "role_type": "Full-time",
+      "location": "Remote",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/xsolla/6173525e-9c55-4967-b4c0-ebe63d8c750b",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Junior%20UA%2FGrowth%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Junior%20UA%2FGrowth%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Junior%20UA%2FGrowth%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Junior%20UA%2FGrowth%20Manager%20Xsolla%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-06-05"
+    },
+    {
+      "title": "Client Solutions Manager - Pinterest 📌",
+      "company": "Aleph",
+      "role_type": "Full time - permanent",
+      "location": "Zagreb, Croatia",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/aleph/158c3ef3-e51c-4d72-b800-e959f51ff75b",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-06-05"
     }
   ]
 };
