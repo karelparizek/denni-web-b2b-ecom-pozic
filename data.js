@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-06-18T10:45:14.298Z",
-  "last_checked_at": "2026-06-18T10:45:14.298Z",
+  "generated_at": "2026-06-19T10:55:04.145Z",
+  "last_checked_at": "2026-06-19T10:55:04.145Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Esports",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "IAM Specialist – Identity & Access Management (Part-Time) (M/F/X)",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Program Manager, Supportability - Prague, Czechia",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Marketing Manager - Czech Republic & Slovakia",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Chief Technology Officer (CTO)",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -566,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -597,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -628,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-18"
+      "link_checked_at": "2026-06-19"
     }
   ]
 };
