@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-25T09:40:54.171Z",
-  "last_checked_at": "2026-06-25T09:40:54.171Z",
+  "generated_at": "2026-06-26T09:49:27.103Z",
+  "last_checked_at": "2026-06-26T09:49:27.103Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 15,
+  "prague_hybrid_roles": 14,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -70,7 +70,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Esports",
@@ -101,7 +101,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -132,7 +132,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -163,7 +163,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -194,7 +194,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "IAM Specialist – Identity & Access Management (Part-Time) (M/F/X)",
@@ -225,7 +225,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -256,7 +256,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -287,7 +287,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Program Manager, Supportability - Prague, Czechia",
@@ -318,7 +318,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -349,7 +349,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -380,38 +380,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
-    },
-    {
-      "title": "Marketing Manager - Czech Republic & Slovakia",
-      "company": "Binance",
-      "role_type": "Full-time Onsite or Remote",
-      "location": "Czech Republic, Prague",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 74,
-      "url": "https://jobs.lever.co/binance/6ff9b296-2564-44fd-9c2e-907c3e541a9c",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Marketing%20Manager%20-%20Czech%20Republic%20%26%20Slovakia%20Binance%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Marketing%20Manager%20-%20Czech%20Republic%20%26%20Slovakia%20Binance%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Marketing%20Manager%20-%20Czech%20Republic%20%26%20Slovakia%20Binance%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Marketing%20Manager%20-%20Czech%20Republic%20%26%20Slovakia%20Binance%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -442,7 +411,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -473,7 +442,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -504,7 +473,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Chief Technology Officer (CTO)",
@@ -535,7 +504,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -566,7 +535,38 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
+    },
+    {
+      "title": "Client Success Director, West (R-19218)",
+      "company": "Dun & Bradstreet",
+      "role_type": "Employee: Full Time",
+      "location": "Remote - United States",
+      "estimated_compensation_czk_per_month": "170000-280000",
+      "match_rate": 74,
+      "url": "https://jobs.lever.co/dnb/8bd59b6d-231c-4565-972c-00e3b5a4d843",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Success%20Director%2C%20West%20(R-19218)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Success%20Director%2C%20West%20(R-19218)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Success%20Director%2C%20West%20(R-19218)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Success%20Director%2C%20West%20(R-19218)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -597,7 +597,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -628,7 +628,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-06-25"
+      "link_checked_at": "2026-06-26"
     }
   ]
 }
