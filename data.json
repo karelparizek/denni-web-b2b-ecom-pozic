@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-08T08:42:01.748Z",
-  "last_checked_at": "2026-07-08T08:42:01.748Z",
+  "generated_at": "2026-07-09T09:55:20.197Z",
+  "last_checked_at": "2026-07-09T09:55:20.197Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 14,
+  "prague_hybrid_roles": 13,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -70,7 +70,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Esports",
@@ -101,7 +101,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -132,7 +132,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -163,7 +163,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Senior Product Manager - Esims",
@@ -194,38 +194,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
-    },
-    {
-      "title": "IAM Specialist – Identity & Access Management (Part-Time) (M/F/X)",
-      "company": "Biggie Group",
-      "role_type": "Part Time",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "70000-120000",
-      "match_rate": 84,
-      "url": "https://jobs.lever.co/biggie/dac1563b-e38f-4f7e-b7ef-45a7e3964426",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=IAM%20Specialist%20%E2%80%93%20Identity%20%26%20Access%20Management%20(Part-Time)%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=IAM%20Specialist%20%E2%80%93%20Identity%20%26%20Access%20Management%20(Part-Time)%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=IAM%20Specialist%20%E2%80%93%20Identity%20%26%20Access%20Management%20(Part-Time)%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=IAM%20Specialist%20%E2%80%93%20Identity%20%26%20Access%20Management%20(Part-Time)%20(M%2FF%2FX)%20Biggie%20Group%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -256,7 +225,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -287,7 +256,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Program Manager, Supportability - Prague, Czechia",
@@ -318,7 +287,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -349,7 +318,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -380,7 +349,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -411,7 +380,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -442,7 +411,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -473,7 +442,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Chief Technology Officer (CTO)",
@@ -504,7 +473,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -535,7 +504,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Client Success Director, West (R-19218)",
@@ -566,7 +535,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -597,7 +566,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -628,7 +597,38 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-08"
+      "link_checked_at": "2026-07-09"
+    },
+    {
+      "title": "Client Solutions Manager - Pinterest 📌",
+      "company": "Aleph",
+      "role_type": "Full time - permanent",
+      "location": "Ljubljana, Slovenia",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/aleph/2e256d73-aaa0-469c-955d-0696ac87d3d7",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-07-09"
     }
   ]
 }
