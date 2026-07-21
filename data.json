@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T09:31:35.854Z",
-  "last_checked_at": "2026-07-20T09:31:35.854Z",
+  "generated_at": "2026-07-21T08:41:53.270Z",
+  "last_checked_at": "2026-07-21T08:41:53.270Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -70,7 +70,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Esports",
@@ -101,7 +101,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -132,7 +132,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -163,7 +163,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -194,7 +194,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -225,7 +225,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -256,7 +256,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -287,7 +287,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -318,7 +318,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -349,7 +349,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -380,7 +380,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Chief Technology Officer (CTO)",
@@ -411,7 +411,38 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
+    },
+    {
+      "title": "Strategic Account Manager (R-19498)",
+      "company": "Dun & Bradstreet",
+      "role_type": "Employee: Full Time",
+      "location": "Remote - India",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 76,
+      "url": "https://jobs.lever.co/dnb/ff1d2f45-2ab4-41ae-9f4c-af605d076857",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Strategic%20Account%20Manager%20(R-19498)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Strategic%20Account%20Manager%20(R-19498)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Strategic%20Account%20Manager%20(R-19498)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Strategic%20Account%20Manager%20(R-19498)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -442,7 +473,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Client Success Director, West (R-19218)",
@@ -473,7 +504,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -504,7 +535,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -535,7 +566,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -566,7 +597,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -597,38 +628,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-20"
-    },
-    {
-      "title": "Senior Product Manager - GTM (19239)",
-      "company": "Dun & Bradstreet",
-      "role_type": "Employee: Full Time",
-      "location": "Warsaw - Poland",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 68,
-      "url": "https://jobs.lever.co/dnb/b1991d95-5077-41e8-a0c7-2b56d2a2849a",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Product%20Manager%20-%20GTM%20(19239)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Senior%20Product%20Manager%20-%20GTM%20(19239)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Product%20Manager%20-%20GTM%20(19239)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Senior%20Product%20Manager%20-%20GTM%20(19239)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-07-20"
+      "link_checked_at": "2026-07-21"
     }
   ]
 }
