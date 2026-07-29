@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-07-28T08:48:28.045Z",
-  "last_checked_at": "2026-07-28T08:48:28.045Z",
+  "generated_at": "2026-07-29T09:05:52.389Z",
+  "last_checked_at": "2026-07-29T09:05:52.389Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Esports",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Chief Technology Officer (CTO)",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Strategic Account Manager (R-19498)",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Client Success Director, West (R-19218)",
@@ -504,7 +504,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
+    },
+    {
+      "title": "Demand Account Manager - Xsolla Ads & Rewards",
+      "company": "Xsolla",
+      "role_type": "Full time",
+      "location": "Remote USA",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/xsolla/3f371c28-47f9-475c-8049-4568d1d8d35b",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Demand%20Account%20Manager%20-%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Demand%20Account%20Manager%20-%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Demand%20Account%20Manager%20-%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Demand%20Account%20Manager%20-%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -535,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -566,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -597,38 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-28"
-    },
-    {
-      "title": "Client Solutions Manager - Pinterest 📌",
-      "company": "Aleph",
-      "role_type": "Full time - permanent",
-      "location": "Belgrade, Serbia",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 70,
-      "url": "https://jobs.lever.co/aleph/e7972a4c-d3e3-4724-a2a9-27111017b244",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-07-28"
+      "link_checked_at": "2026-07-29"
     }
   ]
 };
