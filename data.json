@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T08:45:30.726Z",
-  "last_checked_at": "2026-07-30T08:45:30.726Z",
+  "generated_at": "2026-07-31T09:13:58.021Z",
+  "last_checked_at": "2026-07-31T09:13:58.021Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 11,
+  "prague_hybrid_roles": 10,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -70,38 +70,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
-    },
-    {
-      "title": "Product Marketing Manager for Oddin.gg – Esports",
-      "company": "Oddin.gg",
-      "role_type": "Freelance Contract",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 99,
-      "url": "https://jobs.lever.co/oddin/dcf3c57e-16c6-4320-8295-b68682551109",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Product%20Marketing%20Manager%20for%20Oddin.gg%20%E2%80%93%20Esports%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Product%20Marketing%20Manager%20for%20Oddin.gg%20%E2%80%93%20Esports%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Product%20Marketing%20Manager%20for%20Oddin.gg%20%E2%80%93%20Esports%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Product%20Marketing%20Manager%20for%20Oddin.gg%20%E2%80%93%20Esports%20Oddin.gg%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -132,7 +101,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -163,7 +132,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -194,7 +163,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -225,7 +194,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -256,7 +225,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -287,7 +256,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -318,7 +287,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -349,7 +318,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -380,7 +349,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Chief Technology Officer (CTO)",
@@ -411,7 +380,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Strategic Account Manager (R-19498)",
@@ -420,7 +389,7 @@
       "location": "Remote - India",
       "estimated_compensation_czk_per_month": "110000-180000",
       "match_rate": 76,
-      "url": "https://jobs.lever.co/dnb/ff1d2f45-2ab4-41ae-9f4c-af605d076857",
+      "url": "https://jobs.lever.co/dnb/7786be01-b2ac-4403-919e-708ee2a2def2",
       "source": "Lever discovery",
       "hr_sources": [
         {
@@ -442,7 +411,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -473,7 +442,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Client Success Director, West (R-19218)",
@@ -504,7 +473,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -535,7 +504,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -566,7 +535,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -597,7 +566,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -628,7 +597,38 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-07-30"
+      "link_checked_at": "2026-07-31"
+    },
+    {
+      "title": "Client Solutions Manager - Pinterest 📌",
+      "company": "Aleph",
+      "role_type": "Full time - permanent",
+      "location": "Belgrade, Serbia",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/aleph/e7972a4c-d3e3-4724-a2a9-27111017b244",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20Pinterest%20%F0%9F%93%8C%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-07-31"
     }
   ]
 }
