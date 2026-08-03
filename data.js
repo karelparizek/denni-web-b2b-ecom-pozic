@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-08-02T08:35:02.490Z",
-  "last_checked_at": "2026-08-02T08:35:02.490Z",
+  "generated_at": "2026-08-03T10:02:49.294Z",
+  "last_checked_at": "2026-08-03T10:02:49.294Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Head of Marketing/CMO",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Product Manager/Owner | Health & Fitness Startup",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Marketing/PPC Manager",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Senior Data Analyst for a Digital Fitness Startup",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Country Manager (Czech Republic and Slovakia)",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Chief Technology Officer (CTO)",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Strategic Account Manager (R-19498)",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Client Success Director, West (R-19218)",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -566,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -597,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -628,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-02"
+      "link_checked_at": "2026-08-03"
     }
   ]
 };
