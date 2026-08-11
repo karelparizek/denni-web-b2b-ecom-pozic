@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-08-10T08:01:11.825Z",
-  "last_checked_at": "2026-08-10T08:01:11.825Z",
+  "generated_at": "2026-08-11T07:33:02.853Z",
+  "last_checked_at": "2026-08-11T07:33:02.853Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 5,
+  "prague_hybrid_roles": 6,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -132,7 +132,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
+    },
+    {
+      "title": "Risk Analyst",
+      "company": "Oddin.gg",
+      "role_type": "Freelance Contract",
+      "location": "Prague",
+      "estimated_compensation_czk_per_month": "100000-160000",
+      "match_rate": 76,
+      "url": "https://jobs.lever.co/oddin/8d806dd5-b93c-4c33-a218-7229a7e76e34",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -163,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -194,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Chief Technology Officer (CTO)",
@@ -225,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Strategic Account Manager (R-19498)",
@@ -256,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -287,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Client Success Director, West (R-19218)",
@@ -318,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -349,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -380,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -411,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -442,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -473,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Senior Product Manager - GTM (R-19239)",
@@ -504,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Principal Decision Scientist - Marketing",
@@ -535,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Alliances & Partnerships Manager III (R-19489)",
@@ -566,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     },
     {
       "title": "Senior Customer Relationship Manager (R-19677)",
@@ -597,38 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-10"
-    },
-    {
-      "title": "Client Solutions Manager - X",
-      "company": "Aleph",
-      "role_type": "Full time - permanent",
-      "location": "Vilnius, Lithuania",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 60,
-      "url": "https://jobs.lever.co/aleph/07cad096-d7ab-4cc9-97fb-1b881418d907",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-08-10"
+      "link_checked_at": "2026-08-11"
     }
   ]
 };
