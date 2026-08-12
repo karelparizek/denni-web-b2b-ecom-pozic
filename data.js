@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-08-11T07:33:02.853Z",
-  "last_checked_at": "2026-08-11T07:33:02.853Z",
+  "generated_at": "2026-08-12T07:48:00.066Z",
+  "last_checked_at": "2026-08-12T07:48:00.066Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Risk Analyst",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Strategy Associate to the Co-Founder – Realms Group (Oddin.gg)",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -225,38 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
-    },
-    {
-      "title": "Chief Technology Officer (CTO)",
-      "company": "Xsolla",
-      "role_type": "Full time",
-      "location": "Serbia",
-      "estimated_compensation_czk_per_month": "170000-280000",
-      "match_rate": 76,
-      "url": "https://jobs.lever.co/xsolla/fab82242-2bca-483f-b42e-4b38d20c4cbc",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Chief%20Technology%20Officer%20(CTO)%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Chief%20Technology%20Officer%20(CTO)%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Chief%20Technology%20Officer%20(CTO)%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Chief%20Technology%20Officer%20(CTO)%20Xsolla%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Strategic Account Manager (R-19498)",
@@ -287,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -318,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Client Success Director, West (R-19218)",
@@ -349,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -380,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -411,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -442,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -473,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Client Solutions Manager - Pinterest 📌",
@@ -504,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Senior Product Manager - GTM (R-19239)",
@@ -535,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Principal Decision Scientist - Marketing",
@@ -566,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Alliances & Partnerships Manager III (R-19489)",
@@ -597,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
     },
     {
       "title": "Senior Customer Relationship Manager (R-19677)",
@@ -628,7 +597,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-11"
+      "link_checked_at": "2026-08-12"
+    },
+    {
+      "title": "Client Solutions Manager - X",
+      "company": "Aleph",
+      "role_type": "Full time - permanent",
+      "location": "Vilnius, Lithuania",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 60,
+      "url": "https://jobs.lever.co/aleph/07cad096-d7ab-4cc9-97fb-1b881418d907",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-08-12"
     }
   ]
 };
