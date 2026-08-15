@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-08-14T07:46:57.408Z",
-  "last_checked_at": "2026-08-14T07:46:57.408Z",
+  "generated_at": "2026-08-15T06:54:54.030Z",
+  "last_checked_at": "2026-08-15T06:54:54.030Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Risk Analyst",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Strategic Account Manager (R-19498)",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Client Success Director, West (R-19218)",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Senior Product Manager - GTM (R-19239)",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Principal Decision Scientist - Marketing",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Alliances & Partnerships Manager III (R-19489)",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Senior Customer Relationship Manager (R-19677)",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Client Solutions Manager - X",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Client Solutions Manager - X",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Client Solutions Manager - X",
@@ -566,38 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
-    },
-    {
-      "title": "Sales Manager",
-      "company": "Aleph",
-      "role_type": "Full time - permanent",
-      "location": "Bucharest, Romania",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 60,
-      "url": "https://jobs.lever.co/aleph/2b643ef2-6aa3-4cff-a4ee-9f2b99126016",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Sales%20Manager%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Sales%20Manager%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Sales%20Manager%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Sales%20Manager%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
     },
     {
       "title": "Sales Manager - Amazon Ads",
@@ -628,7 +597,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-14"
+      "link_checked_at": "2026-08-15"
+    },
+    {
+      "title": "Sales Manager - Digital Advertising",
+      "company": "Aleph",
+      "role_type": "Full time",
+      "location": "Warsaw, Poland",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 60,
+      "url": "https://jobs.lever.co/aleph/532b74d9-d68d-437b-ba36-d5d295d50df0",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-08-15"
     }
   ]
 };
