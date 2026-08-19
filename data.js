@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-08-18T07:00:29.897Z",
-  "last_checked_at": "2026-08-18T07:00:29.897Z",
+  "generated_at": "2026-08-19T07:02:15.134Z",
+  "last_checked_at": "2026-08-19T07:02:15.134Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 5,
+  "prague_hybrid_roles": 4,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -132,38 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
-    },
-    {
-      "title": "Risk Analyst",
-      "company": "Oddin.gg",
-      "role_type": "Freelance Contract",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "100000-160000",
-      "match_rate": 76,
-      "url": "https://jobs.lever.co/oddin/8d806dd5-b93c-4c33-a218-7229a7e76e34",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -194,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Strategic Account Manager (R-19498)",
@@ -225,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -256,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Client Success Director, West (R-19218)",
@@ -287,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -318,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -349,38 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
-    },
-    {
-      "title": "Senior Product Manager - GTM (R-19239)",
-      "company": "Dun & Bradstreet",
-      "role_type": "Employee: Full Time",
-      "location": "Warsaw - Poland",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 68,
-      "url": "https://jobs.lever.co/dnb/b1991d95-5077-41e8-a0c7-2b56d2a2849a",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Product%20Manager%20-%20GTM%20(R-19239)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Senior%20Product%20Manager%20-%20GTM%20(R-19239)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Product%20Manager%20-%20GTM%20(R-19239)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Senior%20Product%20Manager%20-%20GTM%20(R-19239)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Principal Decision Scientist - Marketing",
@@ -411,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Alliances & Partnerships Manager III (R-19489)",
@@ -442,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Senior Customer Relationship Manager (R-19677)",
@@ -473,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Client Solutions Manager - X",
@@ -504,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Client Solutions Manager - X",
@@ -535,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Client Solutions Manager - X",
@@ -566,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Sales Manager - Amazon Ads",
@@ -597,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -628,7 +566,69 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-18"
+      "link_checked_at": "2026-08-19"
+    },
+    {
+      "title": "Sales Manager - Microsoft Ads",
+      "company": "Aleph",
+      "role_type": "Full time - permanent",
+      "location": "Bucharest, Romania",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 60,
+      "url": "https://jobs.lever.co/aleph/f329d27e-c0e9-4ad2-b85b-63644540b0db",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Sales%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Sales%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Sales%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Sales%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-08-19"
+    },
+    {
+      "title": "Senior Sales Manager - Microsoft Advertising",
+      "company": "Aleph",
+      "role_type": "Full time - permanent",
+      "location": "Warsaw, Poland",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 60,
+      "url": "https://jobs.lever.co/aleph/c174131a-54ba-4469-a969-5e43ab98756e",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Sales%20Manager%20-%20Microsoft%20Advertising%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Senior%20Sales%20Manager%20-%20Microsoft%20Advertising%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Sales%20Manager%20-%20Microsoft%20Advertising%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Senior%20Sales%20Manager%20-%20Microsoft%20Advertising%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-08-19"
     }
   ]
 };
