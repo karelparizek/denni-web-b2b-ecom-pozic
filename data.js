@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-08-20T07:03:07.738Z",
-  "last_checked_at": "2026-08-20T07:03:07.738Z",
+  "generated_at": "2026-08-21T07:03:58.490Z",
+  "last_checked_at": "2026-08-21T07:03:58.490Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "B2B Marketing Manager",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Strategic Account Manager (R-19498)",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "B2B Marketing Manager (ASEAN)",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Client Success Director, West (R-19218)",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Principal Decision Scientist - Marketing",
@@ -380,7 +380,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Xsolla",
+      "role_type": "Full time",
+      "location": "Remote USA",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 62,
+      "url": "https://jobs.lever.co/xsolla/9180e0a4-70bf-49bd-8ae4-f2aa1898af79",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Customer%20Success%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Customer%20Success%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Customer%20Success%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Customer%20Success%20Manager%20Xsolla%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Alliances & Partnerships Manager III (R-19489)",
@@ -411,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Senior Customer Relationship Manager (R-19677)",
@@ -442,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Client Solutions Manager - X",
@@ -473,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Client Solutions Manager - X",
@@ -504,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Client Solutions Manager - X",
@@ -535,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Sales Manager - Amazon Ads",
@@ -566,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -597,38 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-08-20"
-    },
-    {
-      "title": "Sales Manager - Microsoft Ads",
-      "company": "Aleph",
-      "role_type": "Full time - permanent",
-      "location": "Bucharest, Romania",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 60,
-      "url": "https://jobs.lever.co/aleph/f329d27e-c0e9-4ad2-b85b-63644540b0db",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Sales%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Sales%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Sales%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Sales%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-08-20"
+      "link_checked_at": "2026-08-21"
     }
   ]
 };
