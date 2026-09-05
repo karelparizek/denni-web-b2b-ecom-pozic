@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-09-04T11:12:37.094Z",
-  "last_checked_at": "2026-09-04T11:12:37.094Z",
+  "generated_at": "2026-09-05T10:30:22.415Z",
+  "last_checked_at": "2026-09-05T10:30:22.415Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "B2B Marketing Manager",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Chief of Staff / Right Hand to the CEO",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Risk Analyst",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Product Manager (R-19168)",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Content and Social Media Manager",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Principal Decision Scientist - Marketing",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Alliances & Partnerships Manager III (R-19489)",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Senior Customer Relationship Manager (R-19677)",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Campaign Performance Manager - X",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Campaign Performance Manager - X",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Client Solutions Manager - X",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -566,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Senior Sales Manager - Microsoft Advertising",
@@ -597,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     },
     {
       "title": "Senior Sales Manager (Senior Client Partner)",
@@ -628,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-04"
+      "link_checked_at": "2026-09-05"
     }
   ]
 };
