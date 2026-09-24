@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-09-23T11:28:41.411Z",
-  "last_checked_at": "2026-09-23T11:28:41.411Z",
+  "generated_at": "2026-09-24T11:39:06.169Z",
+  "last_checked_at": "2026-09-24T11:39:06.169Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
-  "total_roles": 20,
+  "total_roles": 19,
   "target_roles": 20,
-  "prague_hybrid_roles": 6,
+  "prague_hybrid_roles": 5,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Project Manager, Office of the CEO",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Client Solutions Manager",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -163,38 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
-    },
-    {
-      "title": "Risk Analyst",
-      "company": "Oddin.gg",
-      "role_type": "Freelance Contract",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "100000-160000",
-      "match_rate": 76,
-      "url": "https://jobs.lever.co/oddin/8d806dd5-b93c-4c33-a218-7229a7e76e34",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Content and Social Media Manager",
@@ -225,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -256,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -287,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Alliances & Partnerships Manager III (R-19489)",
@@ -318,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Senior Client Solutions Manager - TikTok",
@@ -349,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -380,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Campaign Performance Manager - X",
@@ -411,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Campaign Performance Manager - X",
@@ -442,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Client Solutions Manager - X",
@@ -473,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -504,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -535,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Sales Manager (Digital Advertising)",
@@ -566,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Senior Sales Manager - Microsoft Advertising",
@@ -597,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     },
     {
       "title": "Senior Sales Manager (Senior Client Partner)",
@@ -628,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-23"
+      "link_checked_at": "2026-09-24"
     }
   ]
 };
