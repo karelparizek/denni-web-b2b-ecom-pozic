@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-09-29T12:45:23.804Z",
-  "last_checked_at": "2026-09-29T12:45:23.804Z",
+  "generated_at": "2026-09-30T12:28:12.677Z",
+  "last_checked_at": "2026-09-30T12:28:12.677Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
-  "total_roles": 20,
+  "total_roles": 18,
   "target_roles": 20,
   "prague_hybrid_roles": 5,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Project Manager, Office of the CEO",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Client Solutions Manager",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Principal Product Manager, Platform - Prague, Czechia",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Content and Social Media Manager",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -256,38 +256,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
-      "title": "Alliances & Partnerships Manager III (R-19489)",
-      "company": "Dun & Bradstreet",
-      "role_type": "Employee: Full Time",
-      "location": "Remote - United States",
+      "title": "Supply Account Manager - Xsolla Ads & Rewards",
+      "company": "Xsolla",
+      "role_type": "Full time",
+      "location": "Remote USA",
       "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 62,
-      "url": "https://jobs.lever.co/dnb/78c2502f-5e8d-4a43-96ec-fa85eb2d48ca",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/xsolla/84534808-093b-4d8c-a028-f3b3d72427a6",
       "source": "Lever discovery",
       "hr_sources": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Alliances%20%26%20Partnerships%20Manager%20III%20(R-19489)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Supply%20Account%20Manager%20-%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
         },
         {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Alliances%20%26%20Partnerships%20Manager%20III%20(R-19489)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Supply%20Account%20Manager%20-%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Alliances%20%26%20Partnerships%20Manager%20III%20(R-19489)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Supply%20Account%20Manager%20-%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Alliances%20%26%20Partnerships%20Manager%20III%20(R-19489)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Supply%20Account%20Manager%20-%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
         }
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Senior Client Solutions Manager - TikTok",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -349,100 +349,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
-      "title": "Campaign Performance Manager - X",
+      "title": "Account Manager - Microsoft Ads",
       "company": "Aleph",
-      "role_type": "Full time - permanent",
-      "location": "Vilnius, Lithuania",
+      "role_type": "Full time",
+      "location": "Warsaw, Poland",
       "estimated_compensation_czk_per_month": "110000-180000",
       "match_rate": 60,
-      "url": "https://jobs.lever.co/aleph/07cad096-d7ab-4cc9-97fb-1b881418d907",
+      "url": "https://jobs.lever.co/aleph/88ab16c4-c831-439d-a198-14095e84ae69",
       "source": "Lever discovery",
       "hr_sources": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Campaign%20Performance%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Account%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
         },
         {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Campaign%20Performance%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Account%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Campaign%20Performance%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Account%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Campaign%20Performance%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Account%20Manager%20-%20Microsoft%20Ads%20Aleph%20Prague%20hybrid"
         }
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
-    },
-    {
-      "title": "Campaign Performance Manager - X",
-      "company": "Aleph",
-      "role_type": "Full time - permanent",
-      "location": "Tallinn, Estonia",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 60,
-      "url": "https://jobs.lever.co/aleph/f2632b90-9bc0-429e-a32f-2b740dde0f71",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Campaign%20Performance%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Campaign%20Performance%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Campaign%20Performance%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Campaign%20Performance%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-09-29"
-    },
-    {
-      "title": "Client Solutions Manager - X",
-      "company": "Aleph",
-      "role_type": "Full time - permanent",
-      "location": "Riga, Latvia",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 60,
-      "url": "https://jobs.lever.co/aleph/da42472c-628d-45a2-97f4-4a10bff505ab",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20X%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -473,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Sales Manager - Google Ads",
@@ -504,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -535,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Sales Manager (Digital Advertising)",
@@ -566,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Senior Sales Manager - Microsoft Advertising",
@@ -597,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     },
     {
       "title": "Senior Sales Manager (Senior Client Partner)",
@@ -628,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-09-29"
+      "link_checked_at": "2026-09-30"
     }
   ]
 };
