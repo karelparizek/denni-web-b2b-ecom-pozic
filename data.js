@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-10-01T13:05:23.603Z",
-  "last_checked_at": "2026-10-01T13:05:23.603Z",
+  "generated_at": "2026-10-02T12:26:14.951Z",
+  "last_checked_at": "2026-10-02T12:26:14.951Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
-  "total_roles": 17,
+  "total_roles": 16,
   "target_roles": 20,
-  "prague_hybrid_roles": 4,
+  "prague_hybrid_roles": 3,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Project Manager, Office of the CEO",
@@ -101,38 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
-    },
-    {
-      "title": "Principal Product Manager, Platform - Prague, Czechia",
-      "company": "Outreach",
-      "role_type": "Full-Time",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 78,
-      "url": "https://jobs.lever.co/outreach/d6c7de50-a4a0-4f6d-83f2-348b0927a17e",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Principal%20Product%20Manager%2C%20Platform%20-%20Prague%2C%20Czechia%20Outreach%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Content and Social Media Manager",
@@ -163,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -194,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -225,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -256,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Senior Client Solutions Manager - TikTok",
@@ -287,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -318,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -349,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -380,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Sales Manager - Google Ads",
@@ -411,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -442,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Sales Manager (Digital Advertising)",
@@ -473,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Senior Sales Manager - Microsoft Advertising",
@@ -504,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     },
     {
       "title": "Senior Sales Manager (Senior Client Partner)",
@@ -535,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-01"
+      "link_checked_at": "2026-10-02"
     }
   ]
 };
