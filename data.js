@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-10-04T12:16:05.315Z",
-  "last_checked_at": "2026-10-04T12:16:05.315Z",
+  "generated_at": "2026-10-05T14:28:27.916Z",
+  "last_checked_at": "2026-10-05T14:28:27.916Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Project Manager, Office of the CEO",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Content and Social Media Manager",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Senior Client Solutions Manager - TikTok",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Sales Manager - Google Ads",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Sales Manager (Digital Advertising)",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Senior Sales Manager - Microsoft Advertising",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     },
     {
       "title": "Senior Sales Manager (Senior Client Partner)",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-04"
+      "link_checked_at": "2026-10-05"
     }
   ]
 };
