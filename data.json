@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-07T13:14:40.812Z",
-  "last_checked_at": "2026-10-07T13:14:40.812Z",
+  "generated_at": "2026-10-08T13:21:19.906Z",
+  "last_checked_at": "2026-10-08T13:21:19.906Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 17,
   "target_roles": 20,
-  "prague_hybrid_roles": 3,
+  "prague_hybrid_roles": 2,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Product Marketing Manager for Oddin.gg – Fast Betting Content",
@@ -70,38 +70,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
-    },
-    {
-      "title": "Project Manager, Office of the CEO",
-      "company": "Oddin.gg",
-      "role_type": "Freelance Contract",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 98,
-      "url": "https://jobs.lever.co/oddin/13159c1b-bdef-45cf-b82b-def0ce61ac8c",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Project%20Manager%2C%20Office%20of%20the%20CEO%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Project%20Manager%2C%20Office%20of%20the%20CEO%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Project%20Manager%2C%20Office%20of%20the%20CEO%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Project%20Manager%2C%20Office%20of%20the%20CEO%20Oddin.gg%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Content and Social Media Manager",
@@ -132,7 +101,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -163,7 +132,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -194,7 +163,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -225,7 +194,38 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
+    },
+    {
+      "title": "Experiential Marketing Event Manager",
+      "company": "Xsolla",
+      "role_type": "Full-time",
+      "location": "Remote USA",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 62,
+      "url": "https://jobs.lever.co/xsolla/3499bb12-7f11-4d84-9057-89252e1f9432",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Experiential%20Marketing%20Event%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Experiential%20Marketing%20Event%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Experiential%20Marketing%20Event%20Manager%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Experiential%20Marketing%20Event%20Manager%20Xsolla%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Senior Client Solutions Manager - TikTok",
@@ -256,7 +256,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -287,7 +287,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -318,7 +318,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -349,7 +349,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -380,7 +380,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Sales Manager - Google Ads",
@@ -411,7 +411,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -442,7 +442,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Sales Manager (Digital Advertising)",
@@ -473,7 +473,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Senior Sales Manager - Microsoft Advertising",
@@ -504,7 +504,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     },
     {
       "title": "Senior Sales Manager (Senior Client Partner)",
@@ -535,7 +535,7 @@
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-07"
+      "link_checked_at": "2026-10-08"
     }
   ]
 }
