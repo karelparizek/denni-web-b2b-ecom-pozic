@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-10-21T11:41:09.619Z",
-  "last_checked_at": "2026-10-21T11:41:09.619Z",
+  "generated_at": "2026-10-22T11:44:01.600Z",
+  "last_checked_at": "2026-10-22T11:44:01.600Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Studio Manager - Prague",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -163,38 +163,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
-      "title": "Senior Client Solutions Manager - TikTok",
+      "title": "Partnerships Solutions Lead - X (Twiter) Partnership",
       "company": "Aleph",
       "role_type": "Full time",
-      "location": "Paraguay - Remote",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 62,
-      "url": "https://jobs.lever.co/aleph/a0ee5e21-a0fe-446c-947a-44900b430d97",
+      "location": "Riga, Latvia",
+      "estimated_compensation_czk_per_month": "140000-220000",
+      "match_rate": 66,
+      "url": "https://jobs.lever.co/aleph/78f88ad0-0163-4814-a6cd-0f2081d83c09",
       "source": "Lever discovery",
       "hr_sources": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Client%20Solutions%20Manager%20-%20TikTok%20Aleph%20Prague%20hybrid"
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Partnerships%20Solutions%20Lead%20-%20X%20(Twiter)%20Partnership%20Aleph%20Prague%20hybrid"
         },
         {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Senior%20Client%20Solutions%20Manager%20-%20TikTok%20Aleph%20Prague%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Partnerships%20Solutions%20Lead%20-%20X%20(Twiter)%20Partnership%20Aleph%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Client%20Solutions%20Manager%20-%20TikTok%20Aleph%20Prague%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Partnerships%20Solutions%20Lead%20-%20X%20(Twiter)%20Partnership%20Aleph%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Senior%20Client%20Solutions%20Manager%20-%20TikTok%20Aleph%20Prague%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Partnerships%20Solutions%20Lead%20-%20X%20(Twiter)%20Partnership%20Aleph%20Prague%20hybrid"
         }
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Sales Manager - Google Ads",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Sales Manager (Digital Advertising)",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Senior Sales Manager - Microsoft Advertising",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     },
     {
       "title": "Senior Sales Manager (Senior Client Partner)",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-21"
+      "link_checked_at": "2026-10-22"
     }
   ]
 };
