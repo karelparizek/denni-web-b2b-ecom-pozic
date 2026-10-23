@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-10-22T11:44:01.600Z",
-  "last_checked_at": "2026-10-22T11:44:01.600Z",
+  "generated_at": "2026-10-23T11:31:33.669Z",
+  "last_checked_at": "2026-10-23T11:31:33.669Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
-  "total_roles": 15,
+  "total_roles": 14,
   "target_roles": 20,
-  "prague_hybrid_roles": 2,
+  "prague_hybrid_roles": 1,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,38 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
-    },
-    {
-      "title": "Studio Manager - Prague",
-      "company": "Oddin.gg",
-      "role_type": "Freelance Contract",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 74,
-      "url": "https://jobs.lever.co/oddin/cf4d9b54-c1fa-4d15-aec3-c091a1d5cb68",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Studio%20Manager%20-%20Prague%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Studio%20Manager%20-%20Prague%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Studio%20Manager%20-%20Prague%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Studio%20Manager%20-%20Prague%20Oddin.gg%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -101,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -132,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -163,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Partnerships Solutions Lead - X (Twiter) Partnership",
@@ -194,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -225,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -256,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -287,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -318,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Sales Manager - Google Ads",
@@ -349,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -380,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Sales Manager (Digital Advertising)",
@@ -411,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Senior Sales Manager - Microsoft Advertising",
@@ -442,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     },
     {
       "title": "Senior Sales Manager (Senior Client Partner)",
@@ -473,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-22"
+      "link_checked_at": "2026-10-23"
     }
   ]
 };
