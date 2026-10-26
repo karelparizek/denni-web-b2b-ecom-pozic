@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-10-25T11:18:05.941Z",
-  "last_checked_at": "2026-10-25T11:18:05.941Z",
+  "generated_at": "2026-10-26T12:51:45.143Z",
+  "last_checked_at": "2026-10-26T12:51:45.143Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Studio Manager - Prague",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Partnerships Solutions Lead - X (Twitter) Partnership",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Sales Manager - Google Ads",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Sales Manager (Digital Advertising)",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Senior Sales Manager - Microsoft Advertising",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     },
     {
       "title": "Senior Sales Manager (Senior Client Partner)",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-25"
+      "link_checked_at": "2026-10-26"
     }
   ]
 };
