@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-10-27T12:03:33.506Z",
-  "last_checked_at": "2026-10-27T12:03:33.506Z",
+  "generated_at": "2026-10-28T12:43:35.660Z",
+  "last_checked_at": "2026-10-28T12:43:35.660Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
-  "total_roles": 16,
+  "total_roles": 17,
   "target_roles": 20,
   "prague_hybrid_roles": 3,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Risk Analyst",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Studio Manager - Prague",
@@ -101,7 +101,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
+    },
+    {
+      "title": "Business Development Manager (LATAM)",
+      "company": "Oddin.gg",
+      "role_type": "Freelance Contract",
+      "location": "Europe",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 76,
+      "url": "https://jobs.lever.co/oddin/f9e7bb7f-6952-4cf2-99c9-e62484971afa",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Business%20Development%20Manager%20(LATAM)%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Business%20Development%20Manager%20(LATAM)%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Business%20Development%20Manager%20(LATAM)%20Oddin.gg%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Business%20Development%20Manager%20(LATAM)%20Oddin.gg%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -132,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -163,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -194,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Partnerships Solutions Lead - X (Twitter) Partnership",
@@ -225,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -256,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -287,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -318,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -349,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Sales Manager - Google Ads",
@@ -380,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -411,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Sales Manager (Digital Advertising)",
@@ -442,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Senior Sales Manager - Microsoft Advertising",
@@ -473,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     },
     {
       "title": "Senior Sales Manager (Senior Client Partner)",
@@ -504,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-10-27"
+      "link_checked_at": "2026-10-28"
     }
   ]
 };
