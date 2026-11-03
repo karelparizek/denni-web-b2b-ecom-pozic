@@ -1,11 +1,11 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-11-02T15:40:06.800Z",
-  "last_checked_at": "2026-11-02T15:40:06.800Z",
+  "generated_at": "2026-11-03T14:03:15.525Z",
+  "last_checked_at": "2026-11-03T14:03:15.525Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
-  "total_roles": 18,
+  "total_roles": 20,
   "target_roles": 20,
   "prague_hybrid_roles": 3,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Risk Analyst",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Studio Manager - Prague",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Business Development Manager (LATAM)",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Sales Manager",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Partnerships Solutions Lead - X (Twitter) Partnership",
@@ -287,7 +287,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
+    },
+    {
+      "title": "Senior Technical Account Manager, Xsolla Ads & Rewards",
+      "company": "Xsolla",
+      "role_type": "Full-time",
+      "location": "Remote USA",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 62,
+      "url": "https://jobs.lever.co/xsolla/fb8d393e-dc96-4dd4-9148-bf6467e5f42d",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Technical%20Account%20Manager%2C%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Senior%20Technical%20Account%20Manager%2C%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Technical%20Account%20Manager%2C%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Senior%20Technical%20Account%20Manager%2C%20Xsolla%20Ads%20%26%20Rewards%20Xsolla%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -318,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -349,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -380,7 +411,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
+    },
+    {
+      "title": "Client Solutions Manager - Spotify",
+      "company": "Aleph",
+      "role_type": "Full time - permanent",
+      "location": "Budapest, Hungary",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 60,
+      "url": "https://jobs.lever.co/aleph/cd15fdba-63aa-46c9-9c74-9f7ba10fb0fa",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20Spotify%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20Spotify%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20Spotify%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20Spotify%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -411,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Sales Manager - Google Ads",
@@ -442,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -473,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Sales Manager (Digital Advertising)",
@@ -504,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Senior Sales Manager - Microsoft Advertising",
@@ -535,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     },
     {
       "title": "Senior Sales Manager (Senior Client Partner)",
@@ -566,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-02"
+      "link_checked_at": "2026-11-03"
     }
   ]
 };
