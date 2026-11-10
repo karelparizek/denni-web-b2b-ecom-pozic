@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-11-09T16:06:46.323Z",
-  "last_checked_at": "2026-11-09T16:06:46.323Z",
+  "generated_at": "2026-11-10T14:47:00.485Z",
+  "last_checked_at": "2026-11-10T14:47:00.485Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Studio Manager - Prague",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Client Solutions Manager - Microsoft Ads",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Client Solutions Manager - Serbia",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Business Development Manager (LATAM)",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Sales Manager",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Senior Product Manager - Xsolla Ads & Rewards",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Partnerships Solutions Lead - X (Twitter) Partnership",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Associate Client Solutions Manager",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Client Solutions Manager - Spotify",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Regional Marketing Specialist - Europe",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Sales Manager - Digital Advertising",
@@ -566,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Sales Manager - Google Ads",
@@ -597,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     },
     {
       "title": "Sales Manager - Microsoft Ads",
@@ -628,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-09"
+      "link_checked_at": "2026-11-10"
     }
   ]
 };
