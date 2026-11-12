@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-11-11T14:10:09.128Z",
-  "last_checked_at": "2026-11-11T14:10:09.128Z",
+  "generated_at": "2026-11-12T15:03:42.372Z",
+  "last_checked_at": "2026-11-12T15:03:42.372Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 2,
+  "prague_hybrid_roles": 1,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,38 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
-    },
-    {
-      "title": "Studio Manager - Prague",
-      "company": "Oddin.gg",
-      "role_type": "Freelance Contract",
-      "location": "Prague",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 74,
-      "url": "https://jobs.lever.co/oddin/cf4d9b54-c1fa-4d15-aec3-c091a1d5cb68",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Studio%20Manager%20-%20Prague%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Studio%20Manager%20-%20Prague%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Studio%20Manager%20-%20Prague%20Oddin.gg%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Studio%20Manager%20-%20Prague%20Oddin.gg%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Client Solutions Manager - Microsoft Ads",
@@ -101,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Client Solutions Manager - Serbia",
@@ -132,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Business Development Manager (LATAM)",
@@ -163,7 +132,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
+    },
+    {
+      "title": "Client Success Director, West (R-20150)",
+      "company": "Dun & Bradstreet",
+      "role_type": "Employee: Full Time",
+      "location": "Remote - United States",
+      "estimated_compensation_czk_per_month": "170000-280000",
+      "match_rate": 74,
+      "url": "https://jobs.lever.co/dnb/1244f504-617f-4ffc-8f19-c6cbdf90fc45",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Success%20Director%2C%20West%20(R-20150)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Success%20Director%2C%20West%20(R-20150)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Success%20Director%2C%20West%20(R-20150)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Success%20Director%2C%20West%20(R-20150)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Sales Manager",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Senior Product Manager - Xsolla Ads & Rewards",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Partnerships Solutions Lead - X (Twitter) Partnership",
@@ -349,7 +349,69 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
+    },
+    {
+      "title": "Client Success Manager, Chicago/Midwest (R-20152)",
+      "company": "Dun & Bradstreet",
+      "role_type": "Employee: Full Time",
+      "location": "Remote - United States",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 62,
+      "url": "https://jobs.lever.co/dnb/5be1512e-f6f6-47b5-9f3a-7828871e355b",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Success%20Manager%2C%20Chicago%2FMidwest%20(R-20152)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Success%20Manager%2C%20Chicago%2FMidwest%20(R-20152)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Success%20Manager%2C%20Chicago%2FMidwest%20(R-20152)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Success%20Manager%2C%20Chicago%2FMidwest%20(R-20152)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-11-12"
+    },
+    {
+      "title": "Client Success Manager, West (R-20154)",
+      "company": "Dun & Bradstreet",
+      "role_type": "Employee: Full Time",
+      "location": "Remote - United States",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 62,
+      "url": "https://jobs.lever.co/dnb/5c535356-008e-4ade-8f94-3f769cc052e2",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Success%20Manager%2C%20West%20(R-20154)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Client%20Success%20Manager%2C%20West%20(R-20154)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Success%20Manager%2C%20West%20(R-20154)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Client%20Success%20Manager%2C%20West%20(R-20154)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -380,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -411,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -442,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Associate Client Solutions Manager",
@@ -473,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Client Solutions Manager - Spotify",
@@ -504,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Client Solutions Manager - TikTok",
@@ -535,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     },
     {
       "title": "Regional Marketing Specialist - Europe",
@@ -566,69 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-11"
-    },
-    {
-      "title": "Sales Manager - Digital Advertising",
-      "company": "Aleph",
-      "role_type": "Full time",
-      "location": "Warsaw, Poland",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 60,
-      "url": "https://jobs.lever.co/aleph/532b74d9-d68d-437b-ba36-d5d295d50df0",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-11-11"
-    },
-    {
-      "title": "Sales Manager - Google Ads",
-      "company": "Aleph",
-      "role_type": "Full time",
-      "location": "Budapest, Hungary",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 60,
-      "url": "https://jobs.lever.co/aleph/a682be29-3e99-49d9-aef6-2e9f9dbc01d7",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Sales%20Manager%20-%20Google%20Ads%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Sales%20Manager%20-%20Google%20Ads%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Sales%20Manager%20-%20Google%20Ads%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Sales%20Manager%20-%20Google%20Ads%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-11-11"
+      "link_checked_at": "2026-11-12"
     }
   ]
 };
