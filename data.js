@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-11-12T15:03:42.372Z",
-  "last_checked_at": "2026-11-12T15:03:42.372Z",
+  "generated_at": "2026-11-13T14:29:16.753Z",
+  "last_checked_at": "2026-11-13T14:29:16.753Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -11,35 +11,35 @@ window.DASHBOARD_DATA = {
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
-      "title": "Risk Analyst",
+      "title": "Head of Operations",
       "company": "Oddin.gg",
       "role_type": "Freelance Contract",
       "location": "Prague",
-      "estimated_compensation_czk_per_month": "100000-160000",
-      "match_rate": 76,
-      "url": "https://jobs.lever.co/oddin/8d806dd5-b93c-4c33-a218-7229a7e76e34",
+      "estimated_compensation_czk_per_month": "140000-220000",
+      "match_rate": 92,
+      "url": "https://jobs.lever.co/oddin/fafea230-53c9-4ae4-82eb-c174c09eda5d",
       "source": "Lever discovery",
       "hr_sources": [
         {
           "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Operations%20Oddin.gg%20Prague%20hybrid"
         },
         {
           "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
+          "url": "https://www.jobs.cz/prace/?q=Head%20of%20Operations%20Oddin.gg%20Prague%20hybrid"
         },
         {
           "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Head%20of%20Operations%20Oddin.gg%20Prague%20hybrid"
         },
         {
           "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Risk%20Analyst%20Oddin.gg%20Prague%20hybrid"
+          "url": "https://www.startupjobs.com/jobs?search=Head%20of%20Operations%20Oddin.gg%20Prague%20hybrid"
         }
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Client Solutions Manager - Microsoft Ads",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Client Solutions Manager - Serbia",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Business Development Manager (LATAM)",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Client Success Director, West (R-20150)",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Sales Manager",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Senior Product Manager - Xsolla Ads & Rewards",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Partnerships Solutions Lead - X (Twitter) Partnership",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Client Success Manager, Chicago/Midwest (R-20152)",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Client Success Manager, West (R-20154)",
@@ -411,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -442,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -504,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Associate Client Solutions Manager",
@@ -535,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Client Solutions Manager - Spotify",
@@ -566,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Client Solutions Manager - TikTok",
@@ -597,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     },
     {
       "title": "Regional Marketing Specialist - Europe",
@@ -628,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-12"
+      "link_checked_at": "2026-11-13"
     }
   ]
 };
