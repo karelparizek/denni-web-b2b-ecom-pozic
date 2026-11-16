@@ -1,13 +1,13 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-11-15T13:51:53.684Z",
-  "last_checked_at": "2026-11-15T13:51:53.684Z",
+  "generated_at": "2026-11-16T15:36:13.834Z",
+  "last_checked_at": "2026-11-16T15:36:13.834Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
   "currency": "CZK",
   "total_roles": 20,
   "target_roles": 20,
-  "prague_hybrid_roles": 1,
+  "prague_hybrid_roles": 2,
   "validation_rule": "Live ATS discovery from Greenhouse and Lever, then validation of direct ads. Prague/hybrid prioritized, CEE/remote fallback allowed.",
   "roles": [
     {
@@ -39,7 +39,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
+    },
+    {
+      "title": "Senior Client Solutions Manager - ChatGPT Ads by Aleph",
+      "company": "Aleph",
+      "role_type": "Full time - permanent",
+      "location": "Prague, Czech Republic",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 70,
+      "url": "https://jobs.lever.co/aleph/e64caced-862b-47a2-b71b-eb3edb5a7f88",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Client%20Solutions%20Manager%20-%20ChatGPT%20Ads%20by%20Aleph%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Senior%20Client%20Solutions%20Manager%20-%20ChatGPT%20Ads%20by%20Aleph%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Senior%20Client%20Solutions%20Manager%20-%20ChatGPT%20Ads%20by%20Aleph%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Senior%20Client%20Solutions%20Manager%20-%20ChatGPT%20Ads%20by%20Aleph%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Client Solutions Manager - Microsoft Ads",
@@ -70,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Client Solutions Manager - Serbia",
@@ -101,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Business Development Manager (LATAM)",
@@ -132,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Client Success Director, West (R-20150)",
@@ -163,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Sales Manager",
@@ -194,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -225,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -256,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Senior Product Manager - Xsolla Ads & Rewards",
@@ -287,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -318,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Partnerships Solutions Lead - X (Twitter) Partnership",
@@ -349,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Client Success Manager, Chicago/Midwest (R-20152)",
@@ -380,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Client Success Manager, West (R-20154)",
@@ -411,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -442,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -473,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -504,38 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
-    },
-    {
-      "title": "Associate Client Solutions Manager",
-      "company": "Aleph",
-      "role_type": "Full time - permanent",
-      "location": "Riga, Latvia",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 60,
-      "url": "https://jobs.lever.co/aleph/19cfc53e-43b0-4937-b730-618ab9332abe",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Associate%20Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Associate%20Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Associate%20Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Associate%20Client%20Solutions%20Manager%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Client Solutions Manager - Spotify",
@@ -566,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Client Solutions Manager - TikTok",
@@ -597,7 +597,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     },
     {
       "title": "Regional Marketing Specialist - Europe",
@@ -628,7 +628,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-15"
+      "link_checked_at": "2026-11-16"
     }
   ]
 };
