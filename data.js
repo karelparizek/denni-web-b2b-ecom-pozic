@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-11-16T15:36:13.834Z",
-  "last_checked_at": "2026-11-16T15:36:13.834Z",
+  "generated_at": "2026-11-17T15:54:23.784Z",
+  "last_checked_at": "2026-11-17T15:54:23.784Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Senior Client Solutions Manager - ChatGPT Ads by Aleph",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Client Solutions Manager - Microsoft Ads",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Client Solutions Manager - Serbia",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Business Development Manager (LATAM)",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Client Success Director, West (R-20150)",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Sales Manager",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Junior UA/Growth Manager",
@@ -287,7 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Senior Product Manager - Xsolla Ads & Rewards",
@@ -318,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -349,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Partnerships Solutions Lead - X (Twitter) Partnership",
@@ -380,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Client Success Manager, Chicago/Midwest (R-20152)",
@@ -411,38 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
-    },
-    {
-      "title": "Client Success Manager, West (R-20154)",
-      "company": "Dun & Bradstreet",
-      "role_type": "Employee: Full Time",
-      "location": "Remote - United States",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 62,
-      "url": "https://jobs.lever.co/dnb/5c535356-008e-4ade-8f94-3f769cc052e2",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Success%20Manager%2C%20West%20(R-20154)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Client%20Success%20Manager%2C%20West%20(R-20154)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Success%20Manager%2C%20West%20(R-20154)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Client%20Success%20Manager%2C%20West%20(R-20154)%20Dun%20%26%20Bradstreet%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -473,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -504,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -535,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Client Solutions Manager - Spotify",
@@ -566,38 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
-    },
-    {
-      "title": "Client Solutions Manager - TikTok",
-      "company": "Aleph",
-      "role_type": "Full time - permanent",
-      "location": "Vilnius, Lithuania",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 60,
-      "url": "https://jobs.lever.co/aleph/c916f4d4-c8b4-4d78-9962-57c4b8b69793",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Client%20Solutions%20Manager%20-%20TikTok%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Client%20Solutions%20Manager%20-%20TikTok%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Client%20Solutions%20Manager%20-%20TikTok%20Aleph%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Client%20Solutions%20Manager%20-%20TikTok%20Aleph%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
     },
     {
       "title": "Regional Marketing Specialist - Europe",
@@ -628,7 +566,69 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-16"
+      "link_checked_at": "2026-11-17"
+    },
+    {
+      "title": "Sales Manager - Digital Advertising",
+      "company": "Aleph",
+      "role_type": "Full time",
+      "location": "Warsaw, Poland",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 60,
+      "url": "https://jobs.lever.co/aleph/532b74d9-d68d-437b-ba36-d5d295d50df0",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Sales%20Manager%20-%20Digital%20Advertising%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-11-17"
+    },
+    {
+      "title": "Sales Manager - Google Ads",
+      "company": "Aleph",
+      "role_type": "Full time",
+      "location": "Budapest, Hungary",
+      "estimated_compensation_czk_per_month": "110000-180000",
+      "match_rate": 60,
+      "url": "https://jobs.lever.co/aleph/a682be29-3e99-49d9-aef6-2e9f9dbc01d7",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Sales%20Manager%20-%20Google%20Ads%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Sales%20Manager%20-%20Google%20Ads%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Sales%20Manager%20-%20Google%20Ads%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Sales%20Manager%20-%20Google%20Ads%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-11-17"
     }
   ]
 };
