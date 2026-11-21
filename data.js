@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
-  "generated_at": "2026-11-20T15:20:33.326Z",
-  "last_checked_at": "2026-11-20T15:20:33.326Z",
+  "generated_at": "2026-11-21T14:33:58.188Z",
+  "last_checked_at": "2026-11-21T14:33:58.188Z",
   "last_run_status": "fresh_data",
   "last_run_reason": null,
   "timezone": "Europe/Prague",
@@ -39,7 +39,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Senior Client Solutions Manager - ChatGPT Ads by Aleph",
@@ -70,7 +70,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Senior Key Account Manager - iGaming B2B",
@@ -101,7 +101,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Client Solutions Manager - Microsoft Ads",
@@ -132,7 +132,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Client Solutions Manager - Serbia",
@@ -163,7 +163,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Business Development Manager (LATAM)",
@@ -194,7 +194,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Client Success Director, West (R-20150)",
@@ -225,7 +225,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Sales Manager",
@@ -256,7 +256,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Demand Account Manager - Xsolla Ads & Rewards",
@@ -287,38 +287,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
-    },
-    {
-      "title": "Junior UA/Growth Manager",
-      "company": "Xsolla",
-      "role_type": "Full-time",
-      "location": "Remote",
-      "estimated_compensation_czk_per_month": "110000-180000",
-      "match_rate": 70,
-      "url": "https://jobs.lever.co/xsolla/6173525e-9c55-4967-b4c0-ebe63d8c750b",
-      "source": "Lever discovery",
-      "hr_sources": [
-        {
-          "label": "LinkedIn",
-          "url": "https://www.linkedin.com/jobs/search/?keywords=Junior%20UA%2FGrowth%20Manager%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Jobs.cz",
-          "url": "https://www.jobs.cz/prace/?q=Junior%20UA%2FGrowth%20Manager%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "Prace.cz",
-          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Junior%20UA%2FGrowth%20Manager%20Xsolla%20Prague%20hybrid"
-        },
-        {
-          "label": "StartupJobs",
-          "url": "https://www.startupjobs.com/jobs?search=Junior%20UA%2FGrowth%20Manager%20Xsolla%20Prague%20hybrid"
-        }
-      ],
-      "link_verified": true,
-      "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Senior Product Manager - Xsolla Ads & Rewards",
@@ -349,7 +318,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Supply Account Manager - Xsolla Ads & Rewards",
@@ -380,7 +349,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Client Solutions Manager - TikTok",
@@ -411,7 +380,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Partnerships Solutions Lead - X (Twitter) Partnership",
@@ -442,7 +411,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Client Success Manager, Chicago/Midwest (R-20152)",
@@ -473,7 +442,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Senior Client Success Manager, East (R-20151)",
@@ -504,7 +473,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Product Owner, Xsolla Partner Network",
@@ -535,7 +504,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Principal Product Manager (R-19531)",
@@ -566,7 +535,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Account Manager - Microsoft Ads",
@@ -597,7 +566,7 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
     },
     {
       "title": "Client Solutions Manager - Spotify",
@@ -628,7 +597,38 @@ window.DASHBOARD_DATA = {
       ],
       "link_verified": true,
       "link_status": 200,
-      "link_checked_at": "2026-11-20"
+      "link_checked_at": "2026-11-21"
+    },
+    {
+      "title": "Regional Marketing Specialist - Europe",
+      "company": "Aleph",
+      "role_type": "Full time",
+      "location": "Riga, Latvia",
+      "estimated_compensation_czk_per_month": "140000-220000",
+      "match_rate": 60,
+      "url": "https://jobs.lever.co/aleph/517d2f37-57ba-493a-8220-8be44d0bd400",
+      "source": "Lever discovery",
+      "hr_sources": [
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=Regional%20Marketing%20Specialist%20-%20Europe%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Jobs.cz",
+          "url": "https://www.jobs.cz/prace/?q=Regional%20Marketing%20Specialist%20-%20Europe%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "Prace.cz",
+          "url": "https://www.prace.cz/hledani/?search%5Bphrase%5D=Regional%20Marketing%20Specialist%20-%20Europe%20Aleph%20Prague%20hybrid"
+        },
+        {
+          "label": "StartupJobs",
+          "url": "https://www.startupjobs.com/jobs?search=Regional%20Marketing%20Specialist%20-%20Europe%20Aleph%20Prague%20hybrid"
+        }
+      ],
+      "link_verified": true,
+      "link_status": 200,
+      "link_checked_at": "2026-11-21"
     }
   ]
 };
